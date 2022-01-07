@@ -1,8 +1,4 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2021/9/2 15:31
-# @Author  : CuiShuangqi
-# @Email   : 1159533975@qq.com
-# @File    : main.py
 import os
 import time
 import pytest

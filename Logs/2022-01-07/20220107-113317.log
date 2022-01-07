@@ -1,0 +1,68 @@
+2022-01-07 11:33:17,436 - INFO basePage.py [line:68]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:17,436 - INFO basePage.py [line:68]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:17,451 - INFO basePage.py [line:93]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:17,451 - INFO basePage.py [line:93]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:17,561 - INFO basePage.py [line:68]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:17,561 - INFO basePage.py [line:68]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:17,573 - INFO basePage.py [line:93]: 在"输入密码"输入"qq123",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:17,573 - INFO basePage.py [line:93]: 在"输入密码"输入"qq123",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:17,634 - INFO basePage.py [line:68]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:17,634 - INFO basePage.py [line:68]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:17,645 - INFO basePage.py [line:120]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:17,645 - INFO basePage.py [line:120]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:19,695 - INFO basePage.py [line:54]: 等待"断言"消失,元素定位:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2022-01-07 11:33:19,695 - INFO basePage.py [line:54]: 等待"断言"消失,元素定位:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2022-01-07 11:33:29,708 - INFO basePage.py [line:59]: 等待"断言"时长:0:00:10.013254
+2022-01-07 11:33:29,708 - INFO basePage.py [line:59]: 等待"断言"时长:0:00:10.013254
+2022-01-07 11:33:48,594 - INFO basePage.py [line:68]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:48,594 - INFO basePage.py [line:68]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:48,614 - INFO basePage.py [line:93]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:48,614 - INFO basePage.py [line:93]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 11:33:48,715 - INFO basePage.py [line:68]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:48,715 - INFO basePage.py [line:68]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:48,730 - INFO basePage.py [line:93]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:48,730 - INFO basePage.py [line:93]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 11:33:48,815 - INFO basePage.py [line:68]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:48,815 - INFO basePage.py [line:68]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:48,825 - INFO basePage.py [line:120]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:48,825 - INFO basePage.py [line:120]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 11:33:50,870 - INFO basePage.py [line:68]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[8]/li/div")
+2022-01-07 11:33:50,870 - INFO basePage.py [line:68]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[8]/li/div")
+2022-01-07 11:33:50,917 - INFO basePage.py [line:120]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[8]/li/div")
+2022-01-07 11:33:50,917 - INFO basePage.py [line:120]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[8]/li/div")
+2022-01-07 11:33:50,962 - INFO basePage.py [line:68]: 查找"品项管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[11]/li/ul/div[1]")
+2022-01-07 11:33:50,962 - INFO basePage.py [line:68]: 查找"品项管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[11]/li/ul/div[1]")
+2022-01-07 11:33:50,977 - INFO basePage.py [line:120]: 点击"品项管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[11]/li/ul/div[1]")
+2022-01-07 11:33:50,977 - INFO basePage.py [line:120]: 点击"品项管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[11]/li/ul/div[1]")
+2022-01-07 11:34:01,029 - ERROR basePage.py [line:124]: "品项管理"点击失败
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 122, in click_element
+    ele.click()
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=96.0.4664.110)
+
+2022-01-07 11:34:01,029 - ERROR basePage.py [line:124]: "品项管理"点击失败
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 122, in click_element
+    ele.click()
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementNotInteractableException: Message: element not interactable
+  (Session info: chrome=96.0.4664.110)
+
+2022-01-07 11:34:01,546 - INFO basePage.py [line:227]: 截屏成功,图片路径为E:\12\Screenshots\2022-01-07\[品项管理]点击异常_20220107_113401.png
+2022-01-07 11:34:01,546 - INFO basePage.py [line:227]: 截屏成功,图片路径为E:\12\Screenshots\2022-01-07\[品项管理]点击异常_20220107_113401.png

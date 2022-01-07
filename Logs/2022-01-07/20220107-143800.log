@@ -1,0 +1,56 @@
+2022-01-07 14:38:00,047 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 14:38:00,047 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 14:38:00,059 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 14:38:00,059 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-07 14:38:00,124 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 14:38:00,124 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 14:38:00,135 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 14:38:00,135 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-07 14:38:00,200 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 14:38:00,200 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 14:38:00,212 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 14:38:00,212 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-07 14:38:02,265 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div/span")
+2022-01-07 14:38:02,265 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div/span")
+2022-01-07 14:38:02,315 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div/span")
+2022-01-07 14:38:02,315 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div/span")
+2022-01-07 14:38:02,382 - INFO basePage.py [line:88]: 查找"品项管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+2022-01-07 14:38:02,382 - INFO basePage.py [line:88]: 查找"品项管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+2022-01-07 14:38:02,396 - INFO basePage.py [line:140]: 点击"品项管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+2022-01-07 14:38:02,396 - INFO basePage.py [line:140]: 点击"品项管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+2022-01-07 14:38:04,465 - INFO basePage.py [line:88]: 查找"点击编辑"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[3]/div/button[2]/span")
+2022-01-07 14:38:04,465 - INFO basePage.py [line:88]: 查找"点击编辑"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[3]/div/button[2]/span")
+2022-01-07 14:38:08,201 - INFO basePage.py [line:140]: 点击"点击编辑",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[3]/div/button[2]/span")
+2022-01-07 14:38:08,201 - INFO basePage.py [line:140]: 点击"点击编辑",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[3]/div/button[2]/span")
+2022-01-07 14:38:08,688 - INFO basePage.py [line:88]: 查找"None"元素，元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[1]/div/input")
+2022-01-07 14:38:08,688 - INFO basePage.py [line:88]: 查找"None"元素，元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[1]/div/input")
+2022-01-07 14:38:08,714 - INFO basePage.py [line:113]: 在"None"输入"99986372401",元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[1]/div/input")
+2022-01-07 14:38:08,714 - INFO basePage.py [line:113]: 在"None"输入"99986372401",元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[1]/div/input")
+2022-01-07 14:38:09,128 - INFO basePage.py [line:88]: 查找"点击添加"元素，元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[2]/button/span")
+2022-01-07 14:38:09,128 - INFO basePage.py [line:88]: 查找"点击添加"元素，元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[2]/button/span")
+2022-01-07 14:38:09,143 - INFO basePage.py [line:140]: 点击"点击添加",元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[2]/button/span")
+2022-01-07 14:38:09,143 - INFO basePage.py [line:140]: 点击"点击添加",元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[2]/button/span")
+2022-01-07 14:38:09,193 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/div/div/div[3]/div/button[2]/span")
+2022-01-07 14:38:09,193 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/div/div/div[3]/div/button[2]/span")
+2022-01-07 14:38:09,208 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/div/div/div[3]/div/button[2]/span")
+2022-01-07 14:38:09,208 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/div/div/div[3]/div/button[2]/span")
+2022-01-07 14:38:09,245 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/bod')
+2022-01-07 14:38:09,245 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/bod')
+2022-01-07 14:38:40,876 - ERROR basePage.py [line:81]: 等待"断言"元素失败,定位方式:('xpath', '/html/bod')
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 77, in wait_text
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.text_to_be_present_in_element(loc,text))
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-01-07 14:38:40,876 - ERROR basePage.py [line:81]: 等待"断言"元素失败,定位方式:('xpath', '/html/bod')
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 77, in wait_text
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.text_to_be_present_in_element(loc,text))
+  File "c:\users\bonjour\appdata\local\programs\python\python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-01-07 14:38:41,433 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-01-07\等待元素[断言]出现异常_20220107_143840.png
+2022-01-07 14:38:41,433 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-01-07\等待元素[断言]出现异常_20220107_143840.png

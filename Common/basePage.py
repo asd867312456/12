@@ -1,8 +1,3 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/9/1 16:31
-# @Author  : CuiShuangqi
-# @Email   : 1159533975@qq.com
-# @File    : basePage.py
 
 import logging
 import os
@@ -66,6 +61,26 @@ class BasePage(object):
             self.logger.exception(f'等待"{model}"元素失败,定位方式:{loc}')
             # 截图
             self.save_webImgs(f"等待元素[{model}]消失异常")
+            raise
+     # 等待文本是否可见
+    def wait_text(self, loc,text,timeout=30, poll_frequency=0.5, model=None):
+        """
+        :param loc:元素定位表达;元组类型,表达方式(元素定位类型,元素定位方法)
+        :param timeout:等待的上限
+        :param poll_frequency:轮询频率
+        :param model:等待失败时,截图操作,图片文件中需要表达的功能标注
+        :return:None
+        """
+        self.logger.info(f'等待"{model}"元素,定位方式:{loc}')
+        try:
+            start = datetime.now()
+            WebDriverWait(self.driver, timeout, poll_frequency).until(EC.text_to_be_present_in_element(loc,text))
+            end = datetime.now()
+            self.logger.info(f'等待"{model}"时长:{end - start}')
+        except TimeoutException:
+            self.logger.exception(f'等待"{model}"元素失败,定位方式:{loc}')
+            # 截图
+            self.save_webImgs(f"等待元素[{model}]出现异常")
             raise
 
     # 查找一个元素element

@@ -1,8 +1,4 @@
-# -*- coding: utf-8 -*-
-# @Time    : 2021/9/1 16:15
-# @Author  : CuiShuangqi
-# @Email   : 1159533975@qq.com
-# @File    : myLog.py
+
 import logging
 import os
 import time

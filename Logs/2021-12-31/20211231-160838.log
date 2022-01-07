@@ -1,0 +1,27 @@
+2021-12-31 16:08:38,411 - INFO test_001_baiduSearch.py [line:21]: 
+WebDriver 正在初始化...
+2021-12-31 16:08:50,270 - INFO test_001_baiduSearch.py [line:23]: 打开链接: https://iadmin.dev.jmj1995.com/login...
+2021-12-31 16:08:50,412 - INFO test_001_baiduSearch.py [line:28]: WebDriver 初始化完成！
+2021-12-31 16:08:50,417 - INFO baiduIndex.py [line:24]: 【===搜索操作===】
+2021-12-31 16:08:50,418 - INFO basePage.py [line:38]: 等待"搜索框"元素,定位方式:('id', 'kw')
+2021-12-31 16:09:22,066 - ERROR basePage.py [line:45]: 等待"搜索框"元素失败,定位方式:('id', 'kw')
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 41, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-31 16:09:22,608 - INFO basePage.py [line:232]: 截屏成功,图片路径为E:\Selenium_Demo-main\Screenshots\2021-12-31\等待元素[搜索框]出现异常_20211231_160922.png
+2021-12-31 16:09:22,716 - INFO baiduIndex.py [line:24]: 【===搜索操作===】
+2021-12-31 16:09:22,716 - INFO basePage.py [line:38]: 等待"搜索框"元素,定位方式:('id', 'kw')
+2021-12-31 16:09:54,356 - ERROR basePage.py [line:45]: 等待"搜索框"元素失败,定位方式:('id', 'kw')
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 41, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-31 16:09:54,861 - INFO basePage.py [line:232]: 截屏成功,图片路径为E:\Selenium_Demo-main\Screenshots\2021-12-31\等待元素[搜索框]出现异常_20211231_160954.png
+2021-12-31 16:09:57,403 - INFO test_001_baiduSearch.py [line:31]: WebDriver 成功退出...

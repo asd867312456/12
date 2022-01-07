@@ -1,0 +1,71 @@
+2021-12-31 17:55:56,882 - INFO test_001_baiduSearch.py [line:21]: 
+WebDriver 正在初始化...
+2021-12-31 17:55:57,724 - INFO test_001_baiduSearch.py [line:23]: 打开链接: https://www.baidu.com/...
+2021-12-31 17:55:57,849 - INFO test_001_baiduSearch.py [line:28]: WebDriver 初始化完成！
+2021-12-31 17:55:57,854 - INFO baiduIndex.py [line:30]: 【===搜索操作===】
+2021-12-31 17:55:57,854 - INFO basePage.py [line:38]: 等待"搜索框"元素,定位方式:('id', 'kw')
+2021-12-31 17:55:57,909 - INFO basePage.py [line:43]: 等待"搜索框"时长:0:00:00.053681
+2021-12-31 17:55:57,909 - INFO basePage.py [line:73]: 查找"搜索框"元素，元素定位:('id', 'kw')
+2021-12-31 17:55:57,972 - INFO basePage.py [line:98]: 在"搜索框"输入"阿崔",元素定位:('id', 'kw')
+2021-12-31 17:55:58,053 - INFO basePage.py [line:73]: 查找"搜索框"元素，元素定位:('id', 'kw')
+2021-12-31 17:55:58,084 - INFO basePage.py [line:111]: 清除"搜索框",元素定位:('id', 'kw')
+2021-12-31 17:55:58,111 - INFO basePage.py [line:73]: 查找"搜索框"元素，元素定位:('id', 'kw')
+2021-12-31 17:55:58,116 - INFO basePage.py [line:98]: 在"搜索框"输入"哈哈",元素定位:('id', 'kw')
+2021-12-31 17:55:58,159 - INFO basePage.py [line:38]: 等待""百度一下"搜索按钮"元素,定位方式:('id', 'su')
+2021-12-31 17:55:58,179 - INFO basePage.py [line:43]: 等待""百度一下"搜索按钮"时长:0:00:00.020630
+2021-12-31 17:55:58,179 - INFO basePage.py [line:73]: 查找""百度一下"搜索按钮"元素，元素定位:('id', 'su')
+2021-12-31 17:55:58,186 - INFO basePage.py [line:125]: 点击""百度一下"搜索按钮",元素定位:('id', 'su')
+2021-12-31 17:56:01,248 - INFO baiduIndex.py [line:30]: 【===搜索操作===】
+2021-12-31 17:56:01,249 - INFO basePage.py [line:38]: 等待"搜索框"元素,定位方式:('id', 'kw')
+2021-12-31 17:56:01,266 - INFO basePage.py [line:43]: 等待"搜索框"时长:0:00:00.016956
+2021-12-31 17:56:01,266 - INFO basePage.py [line:73]: 查找"搜索框"元素，元素定位:('id', 'kw')
+2021-12-31 17:56:01,271 - INFO basePage.py [line:98]: 在"搜索框"输入"阿崔",元素定位:('id', 'kw')
+2021-12-31 17:56:01,333 - INFO basePage.py [line:73]: 查找"搜索框"元素，元素定位:('id', 'kw')
+2021-12-31 17:56:01,338 - INFO basePage.py [line:111]: 清除"搜索框",元素定位:('id', 'kw')
+2021-12-31 17:56:01,363 - INFO basePage.py [line:73]: 查找"搜索框"元素，元素定位:('id', 'kw')
+2021-12-31 17:56:01,368 - INFO basePage.py [line:98]: 在"搜索框"输入"呵呵",元素定位:('id', 'kw')
+2021-12-31 17:56:01,399 - INFO basePage.py [line:38]: 等待""百度一下"搜索按钮"元素,定位方式:('id', 'su')
+2021-12-31 17:56:01,412 - INFO basePage.py [line:43]: 等待""百度一下"搜索按钮"时长:0:00:00.012965
+2021-12-31 17:56:01,412 - INFO basePage.py [line:73]: 查找""百度一下"搜索按钮"元素，元素定位:('id', 'su')
+2021-12-31 17:56:01,417 - INFO basePage.py [line:125]: 点击""百度一下"搜索按钮",元素定位:('id', 'su')
+2021-12-31 17:56:06,898 - INFO test_001_baiduSearch.py [line:31]: WebDriver 成功退出...
+2021-12-31 17:56:20,830 - INFO basePage.py [line:73]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 17:56:20,847 - INFO basePage.py [line:98]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 17:56:20,920 - INFO basePage.py [line:73]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 17:56:20,932 - INFO basePage.py [line:98]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 17:56:20,998 - INFO basePage.py [line:73]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 17:56:21,009 - INFO basePage.py [line:125]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 17:56:24,057 - INFO basePage.py [line:38]: 等待"None"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2021-12-31 17:56:24,110 - INFO basePage.py [line:43]: 等待"None"时长:0:00:00.051567
+2021-12-31 17:56:45,546 - INFO basePage.py [line:73]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 17:56:45,559 - INFO basePage.py [line:98]: 在"输入账号"输入"pengjie1",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 17:56:45,626 - INFO basePage.py [line:73]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 17:56:45,638 - INFO basePage.py [line:98]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 17:56:45,701 - INFO basePage.py [line:73]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 17:56:45,711 - INFO basePage.py [line:125]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 17:56:48,765 - INFO basePage.py [line:38]: 等待"None"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2021-12-31 17:57:20,419 - ERROR basePage.py [line:45]: 等待"None"元素失败,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+Traceback (most recent call last):
+  File "e:\Selenium_Demo-main\Common\basePage.py", line 41, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-31 17:57:20,963 - INFO basePage.py [line:232]: 截屏成功,图片路径为E:\Selenium_Demo-main\Screenshots\2021-12-31\等待元素[None]出现异常_20211231_175720.png
+2021-12-31 17:57:40,200 - INFO basePage.py [line:73]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 17:57:40,229 - INFO basePage.py [line:98]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 17:57:40,316 - INFO basePage.py [line:73]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 17:57:40,328 - INFO basePage.py [line:98]: 在"输入密码"输入"qq123",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 17:57:40,381 - INFO basePage.py [line:73]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 17:57:40,390 - INFO basePage.py [line:125]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 17:57:43,440 - INFO basePage.py [line:38]: 等待"None"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2021-12-31 17:58:15,041 - ERROR basePage.py [line:45]: 等待"None"元素失败,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+Traceback (most recent call last):
+  File "e:\Selenium_Demo-main\Common\basePage.py", line 41, in wait_eleVisible
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.visibility_of_element_located(loc))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2021-12-31 17:58:15,569 - INFO basePage.py [line:232]: 截屏成功,图片路径为E:\Selenium_Demo-main\Screenshots\2021-12-31\等待元素[None]出现异常_20211231_175815.png

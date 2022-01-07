@@ -1,0 +1,16 @@
+2021-12-31 16:29:16,621 - INFO basePage.py [line:73]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 16:29:16,621 - INFO basePage.py [line:73]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 16:29:16,664 - INFO basePage.py [line:98]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 16:29:16,664 - INFO basePage.py [line:98]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 16:29:16,902 - INFO basePage.py [line:73]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 16:29:16,902 - INFO basePage.py [line:73]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 16:29:16,921 - INFO basePage.py [line:98]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 16:29:16,921 - INFO basePage.py [line:98]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 16:29:17,051 - INFO basePage.py [line:73]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 16:29:17,051 - INFO basePage.py [line:73]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 16:29:17,069 - INFO basePage.py [line:125]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 16:29:17,069 - INFO basePage.py [line:125]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 16:29:20,143 - INFO basePage.py [line:38]: 等待"None"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2021-12-31 16:29:20,143 - INFO basePage.py [line:38]: 等待"None"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2021-12-31 16:29:20,207 - INFO basePage.py [line:43]: 等待"None"时长:0:00:00.063845
+2021-12-31 16:29:20,207 - INFO basePage.py [line:43]: 等待"None"时长:0:00:00.063845

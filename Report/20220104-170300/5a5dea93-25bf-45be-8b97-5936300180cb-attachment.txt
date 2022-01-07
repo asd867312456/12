@@ -1,0 +1,8 @@
+[32mINFO    [0m root:basePage.py:73 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+[32mINFO    [0m root:basePage.py:98 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+[32mINFO    [0m root:basePage.py:73 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+[32mINFO    [0m root:basePage.py:98 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+[32mINFO    [0m root:basePage.py:73 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+[32mINFO    [0m root:basePage.py:125 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+[32mINFO    [0m root:basePage.py:38 等待"None"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+[32mINFO    [0m root:basePage.py:43 等待"None"时长:0:00:00.051583

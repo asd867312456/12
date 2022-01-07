@@ -1,0 +1,6 @@
+2021-12-31 15:42:12,419 - INFO basePage.py [line:73]: 查找"None"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 15:42:12,445 - INFO basePage.py [line:98]: 在"None"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2021-12-31 15:42:15,577 - INFO basePage.py [line:73]: 查找"None"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 15:42:15,588 - INFO basePage.py [line:98]: 在"None"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2021-12-31 15:42:18,662 - INFO basePage.py [line:73]: 查找"None"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2021-12-31 15:42:18,688 - INFO basePage.py [line:125]: 点击"None",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")

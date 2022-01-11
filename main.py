@@ -9,9 +9,9 @@ if __name__ == '__main__':
     # allure 测试报告路径
     cur_path = os.path.dirname(os.path.realpath(__file__))
     
-    report_path = os.path.join(cur_path, f'Report\\{now_time}')
+    # report_path = os.path.join(cur_path, f'Report\\{now_time}')
     # #暂时定死
-    # report_path = os.path.join(cur_path, "")
+    report_path = os.path.join(cur_path, "allure-report")
 
     # -s : 打印信息
     # -m ：运行含标签的用例

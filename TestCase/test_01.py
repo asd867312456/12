@@ -10,13 +10,19 @@ from selenium import webdriver
 from PageObject.omsIndex import OmsIndex
 from Common.basePage import BasePage
 from selenium.webdriver.common.by import By
+from selenium.webdriver.chrome.options import Options
 import random
 #随机生成九位数
 number=str(99)+"".join(random.sample(["0","1","2","3","4","5","6","7","8","9"],9))
 @allure.feature("登录模块")
 class Test_1:
     def setup(self):
-        self.driver=webdriver.Chrome()
+        chrome_options = Options()
+        chrome_options.add_argument('--headless')
+        chrome_options.add_argument('--no-sandbox')
+        chrome_options.add_argument('--disable-gpu')
+        chrome_options.add_argument('--disable-dev-shm-usage')
+        self.driver=webdriver.Chrome(chrome_options=chrome_options)
         self.driver.maximize_window()
         self.driver.implicitly_wait(10)
         self.driver.get("https://iadmin.staging.jmj1995.com/login")

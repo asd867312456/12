@@ -1,0 +1,34 @@
+[32mINFO    [0m root:basePage.py:88 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+[32mINFO    [0m root:basePage.py:113 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+[32mINFO    [0m root:basePage.py:88 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+[32mINFO    [0m root:basePage.py:113 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+[32mINFO    [0m root:basePage.py:88 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+[32mINFO    [0m root:basePage.py:140 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+[32mINFO    [0m root:basePage.py:88 查找"展开模块"元素，元素定位:('class name', 'hamburger-container')
+[32mINFO    [0m root:basePage.py:140 点击"展开模块",元素定位:('class name', 'hamburger-container')
+[32mINFO    [0m root:basePage.py:88 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/div")
+[32mINFO    [0m root:basePage.py:140 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/div")
+[32mINFO    [0m root:basePage.py:88 查找"品项管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+[32mINFO    [0m root:basePage.py:140 点击"品项管理",元素定位:('xpath', "//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+[32mINFO    [0m root:basePage.py:88 查找"点击编辑"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[3]/div/button[2]/span")
+[32mINFO    [0m root:basePage.py:140 点击"点击编辑",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[3]/div/button[2]/span")
+[32mINFO    [0m root:basePage.py:88 查找"None"元素，元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[1]/div/input")
+[32mINFO    [0m root:basePage.py:113 在"None"输入"99061354827",元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[1]/div/input")
+[32mINFO    [0m root:basePage.py:88 查找"点击添加"元素，元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[2]/button/span")
+[32mINFO    [0m root:basePage.py:140 点击"点击添加",元素定位:('xpath', "//*[@id='pane-basic']/div/form[1]/div[9]/div/div[2]/button/span")
+[31m[1mERROR   [0m root:basePage.py:144 "点击添加"点击失败
+Traceback (most recent call last):
+  File "E:\12\Common\basePage.py", line 142, in click_element
+    ele.click()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <span>...</span> is not clickable at point (586, 286). Other element would receive the click: <div class="el-loading-mask" style="">...</div>
+  (Session info: headless chrome=96.0.4664.110)
+
+[32mINFO    [0m root:basePage.py:247 截屏成功,图片路径为E:\12\Screenshots\2022-01-11\[点击添加]点击异常_20220111_150041.png

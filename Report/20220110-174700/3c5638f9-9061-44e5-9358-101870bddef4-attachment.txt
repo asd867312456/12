@@ -1,1 +1,0 @@
-[32mINFO    [0m root:basePage.py:88 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")

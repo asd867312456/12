@@ -115,6 +115,29 @@ class Test_1:
             self.driver.implicitly_wait(10)
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"更新供应商详情成功",model="断言")
             time.sleep(2)
+    @pytest.mark.parametrize("a",["1","2","3","4"])
+    #当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为删除。
+    @allure.story("员工餐新增/查看/编辑/删除，当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为删除。")
+    @pytest.mark.test_005
+    @pytest.mark.flaky(reruns=1,reruns_delay=10)
+    # @pytest.mark.skip(reason="调式")
+    def test_005(self,a):
+        #员工餐新增/查看/编辑/删除
+        self.oms.OMS_p("A6")
+        self.driver.implicitly_wait(10)
+        self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li"),model="点击员工餐模板")
+        self.driver.implicitly_wait(10)
+        if a=="1":
+            # self.a6=self.basepage.find_element((By.CLASS_NAME,"app-main"),model="弹窗唯一元素")
+            a6=self.driver.find_element_by_class_name("app-main")
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button"),model="点击新增员工餐模板")
+            self.driver.implicitly_wait(10)
+            self.basepage.input_text((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/div[3]/div[1]/div[2]/div/form/div[1]/div/div/input"),number,model="模板名称")
+            self.driver.implicitly_wait(10)
+            a6.find_element_by_xpath("//*[class='app-main']/div/div/div[3]/div/button[2]/span").click()
+            # self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span"),model="点击确定")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_text((By.XPATH,"/html/body/div[4]/p"),"新增员工餐模板成功",model="断言")
     def teardown(self):
         time.sleep(3)
         self.driver.quit()

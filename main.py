@@ -3,6 +3,7 @@ import os
 import time
 import pytest
 import shutil
+import pytest_rerunfailures
 
 if __name__ == '__main__':
     # 当前时间
@@ -12,7 +13,7 @@ if __name__ == '__main__':
     
     # report_path = os.path.join(cur_path, f'Report\\{now_time}')
     # #暂时定死
-    #运行前先删除再新增
+    #运行前先删除Report再新增
     shutil.rmtree("Report")
     report_path = os.path.join(cur_path, "Report")
 

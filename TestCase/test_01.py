@@ -12,9 +12,10 @@ from Common.basePage import BasePage
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import random
+import pytest_rerunfailures
 #随机生成九位数
 number=str(99)+"".join(random.sample(["0","1","2","3","4","5","6","7","8","9"],9))
-@allure.feature("登录模块")
+@allure.feature("OMS品牌视角")
 class Test_1:
     def setup(self):
         chrome_options = Options()
@@ -33,6 +34,8 @@ class Test_1:
     @pytest.mark.test_001
     @pytest.mark.parametrize(
     "usr,password",[("pengjie","Qq123456"),("pengjie32","Qq123456"),("pengjie","qq123")],)
+    @pytest.mark.flaky(reruns=1,reruns_delay=10) 
+    @pytest.mark.skip(reason="调式")
     def test_001(self,usr,password):
         #登录
         self.oms.OMS_deng(usr,password)
@@ -47,9 +50,11 @@ class Test_1:
     #当A=1时为查看，当A等于2时为编辑
     @allure.story("品项管理查看/编辑（当A=1时为查看，当A等于2时为编辑）")
     @pytest.mark.test_002
+    @pytest.mark.flaky(reruns=1,reruns_delay=10)
+    @pytest.mark.skip(reason="调式")
     def test_002(self,a):
         #品项管理查看/编辑 操作
-        self.oms.OMS_p()
+        self.oms.OMS_p("A2")
         self.driver.implicitly_wait(10)
         if a=="1":
             time.sleep(2)
@@ -72,7 +77,44 @@ class Test_1:
             self.driver.implicitly_wait(10)
             #断言
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"提交成功",model="断言")
+    @allure.story("门店管理-编辑门店")
+    @pytest.mark.test_003
+    @pytest.mark.flaky(reruns=1,reruns_delay=10)
+    @pytest.mark.skip(reason="调式")
+    def test_003(self):
+        #门店管理/编辑 操作
+        self.oms.OMS_p("A4")
+        self.driver.implicitly_wait(10)
+        self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/div/div/div[2]/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button"),model="点击编辑")
+        self.driver.implicitly_wait(10)
+        self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/div/div/div/form/div[3]/div/div/div/button[2]"),model="点击修改")
+        self.driver.implicitly_wait(10)
+        self.basepage.wait_text((By.XPATH,"/html/body/div[2]/div/div[1]/p"),"修改成功",model="断言")
+        self.driver.implicitly_wait(10)
+    @pytest.mark.parametrize("a",["1","2"])
+    #当A=1时为查看，当A等于2时为编辑
+    @allure.story("供应商查看/编辑（当A=1时为查看，当A等于2时为编辑）")
+    @pytest.mark.test_004
+    @pytest.mark.flaky(reruns=1,reruns_delay=10)
+    @pytest.mark.skip(reason="调式")
+    def test_004(self,a):
+        #供应商管理查看/编辑 操作
+        self.oms.OMS_p("A5")
+        self.driver.implicitly_wait(10)
+        if a=="1":
+            time.sleep(2)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]"),model="点击查看")
             self.driver.implicitly_wait(10)
+            time.sleep(2)
+            self.basepage.wait_eleVisible((By.XPATH,"//*[@id='app']/div/div[2]/section/div/div/div/div/div[3]/div/button"),model="断言")
+        else:
+            time.sleep(2)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]"),model="点击查看")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/div/div/div/div[3]/div/button[2]"),model="点击确定")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"更新供应商详情成功",model="断言")
+            time.sleep(2)
     def teardown(self):
         time.sleep(3)
         self.driver.quit()

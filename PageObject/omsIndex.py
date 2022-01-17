@@ -16,9 +16,12 @@ class OmsIndex(BasePage):
     A1=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/div")
     #点击品项管理
     A2=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
-    
+    #点击门店管理
+    A4=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[2]/a/li")
+    #点击供应商管理
+    A5=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[3]/a/li")
     #展开模块
-    A3=(By.CLASS_NAME,"hamburger-container")
+    b3=(By.CLASS_NAME,"hamburger-container")
     #登录
     def OMS_deng(self,search_key,a):
         #输入帐号
@@ -30,17 +33,28 @@ class OmsIndex(BasePage):
         self.driver.implicitly_wait(10)
         sleep(2)
     #点击品项管理
-    def OMS_p(self):
+    def OMS_p(self,a):
         self.OMS_deng("oms1212","Qq123456")
         #点击品项管理
         # try:
         #     self.click_element(self.A1,model="供应链管理")
         # except:
-        self.click_element(self.A3,model="展开模块")
+        self.click_element(self.b3,model="展开模块")
         self.driver.implicitly_wait(10)
         sleep(1)
         self.click_element(self.A1,model="供应链管理")
-        #点击品项管理
-        self.click_element(self.A2,model="品项管理")
-        self.driver.implicitly_wait(10)
-        sleep(2)
+        if a=="A2":
+            #点击品项管理
+            self.click_element(self.A2,model="品项管理")
+            self.driver.implicitly_wait(10)
+            sleep(2)
+        elif a=="A4":
+             #点击门店管理
+            self.click_element(self.A4,model="门店管理")
+            self.driver.implicitly_wait(10)
+            sleep(2)
+        elif a=="A5":
+            #点击供应商管理
+            self.click_element(self.A5,model="供应商管理")
+            self.driver.implicitly_wait(10)
+            sleep(2)

@@ -3,7 +3,7 @@ import os
 import time
 import pytest
 import shutil
-import pytest_rerunfailures
+# import pytest_rerunfailures
 
 if __name__ == '__main__':
     # 当前时间

@@ -12,7 +12,7 @@ from Common.basePage import BasePage
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
 import random
-import pytest_rerunfailures
+# import pytest_rerunfailures
 #随机生成九位数
 number=str(99)+"".join(random.sample(["0","1","2","3","4","5","6","7","8","9"],9))
 @allure.feature("OMS品牌视角")

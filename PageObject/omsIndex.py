@@ -13,15 +13,16 @@ class OmsIndex(BasePage):
     #点击登录
     deng=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/form/button")
     #点击供应链管理
-    A1=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/div")
+    #//*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div/span
+    A1=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
     #点击品项管理
-    A2=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
+    A2=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/a/li")
     #点击门店管理
-    A4=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[2]/a/li")
+    A4=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[2]/a/li")
     #点击供应商管理
-    A5=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[3]/a/li")
+    A5=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[3]/a/li")
     #点击员工餐管理
-    A6=(By.XPATH,"//*[@id='app']/div/div[2]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+    A6=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
     #展开模块
     b3=(By.CLASS_NAME,"hamburger-container")
     #登录
@@ -41,8 +42,8 @@ class OmsIndex(BasePage):
         # try:
         #     self.click_element(self.A1,model="供应链管理")
         # except:
-        self.click_element(self.b3,model="展开模块")
-        self.driver.implicitly_wait(10)
+        # self.click_element(self.b3,model="展开模块")
+        # self.driver.implicitly_wait(10)
         sleep(1)
         self.click_element(self.A1,model="供应链管理")
         if a=="A2":

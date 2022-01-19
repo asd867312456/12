@@ -63,7 +63,7 @@ class BasePage(object):
             self.save_webImgs(f"等待元素[{model}]消失异常")
             raise
      # 等待文本是否可见
-    def wait_text(self, loc,text,timeout=30, poll_frequency=0.5, model=None):
+    def wait_text(self, loc,text,timeout=10, poll_frequency=0.1, model=None):
         """
         :param loc:元素定位表达;元组类型,表达方式(元素定位类型,元素定位方法)
         :param timeout:等待的上限

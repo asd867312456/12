@@ -1,0 +1,94 @@
+2022-01-19 16:55:41,971 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:55:41,971 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:55:41,983 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:55:41,983 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:55:42,063 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:55:42,063 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:55:42,075 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:55:42,075 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:55:42,135 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:55:42,135 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:55:42,145 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:55:42,145 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:55:45,214 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:55:45,214 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:55:45,226 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:55:45,226 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:55:45,270 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:55:45,270 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:55:45,283 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:55:45,283 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:55:47,471 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:55:47,471 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:55:47,484 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:55:47,484 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:55:47,553 - INFO basePage.py [line:88]: 查找"点击编辑员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-19 16:55:47,553 - INFO basePage.py [line:88]: 查找"点击编辑员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-19 16:55:49,742 - INFO basePage.py [line:140]: 点击"点击编辑员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-19 16:55:49,742 - INFO basePage.py [line:140]: 点击"点击编辑员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-19 16:55:52,200 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-19 16:55:52,200 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-19 16:55:52,212 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-19 16:55:52,212 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-19 16:55:52,252 - INFO basePage.py [line:74]: 等待"修改员工餐模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-01-19 16:55:52,252 - INFO basePage.py [line:74]: 等待"修改员工餐模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-01-19 16:55:52,683 - INFO basePage.py [line:79]: 等待"修改员工餐模板断言"时长:0:00:00.429663
+2022-01-19 16:55:52,683 - INFO basePage.py [line:79]: 等待"修改员工餐模板断言"时长:0:00:00.429663
+2022-01-19 16:56:11,044 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:56:11,044 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:56:11,069 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:56:11,069 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:56:11,146 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:56:11,146 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:56:11,159 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:56:11,159 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:56:11,231 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:56:11,231 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:56:11,243 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:56:11,243 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:56:14,334 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:56:14,334 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:56:14,349 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:56:14,349 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-19 16:56:14,466 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:56:14,466 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:56:14,478 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:56:14,478 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-19 16:56:16,711 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:56:16,711 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:56:16,736 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:56:16,736 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-19 16:56:16,803 - INFO basePage.py [line:88]: 查找"点击删除员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-19 16:56:16,803 - INFO basePage.py [line:88]: 查找"点击删除员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-19 16:56:19,135 - INFO basePage.py [line:140]: 点击"点击删除员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-19 16:56:19,135 - INFO basePage.py [line:140]: 点击"点击删除员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-19 16:56:19,514 - INFO basePage.py [line:88]: 查找"二次确定删除"元素，元素定位:('xpath', "//*[@id='el-popover-6488']/div[1]/div/button[2]/span")
+2022-01-19 16:56:19,514 - INFO basePage.py [line:88]: 查找"二次确定删除"元素，元素定位:('xpath', "//*[@id='el-popover-6488']/div[1]/div/button[2]/span")
+2022-01-19 16:56:29,539 - ERROR basePage.py [line:92]: 查找"二次确定删除"元素失败,定位方式:('xpath', "//*[@id='el-popover-6488']/div[1]/div/button[2]/span")
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 90, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='el-popover-6488']/div[1]/div/button[2]/span"}
+  (Session info: headless chrome=97.0.4692.71)
+
+2022-01-19 16:56:29,539 - ERROR basePage.py [line:92]: 查找"二次确定删除"元素失败,定位方式:('xpath', "//*[@id='el-popover-6488']/div[1]/div/button[2]/span")
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 90, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='el-popover-6488']/div[1]/div/button[2]/span"}
+  (Session info: headless chrome=97.0.4692.71)
+
+2022-01-19 16:56:29,679 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-01-19\查找元素[二次确定删除]异常_20220119_165629.png
+2022-01-19 16:56:29,679 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-01-19\查找元素[二次确定删除]异常_20220119_165629.png

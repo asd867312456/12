@@ -1,0 +1,16 @@
+2022-01-19 16:02:26,579 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:02:26,579 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:02:26,598 - INFO basePage.py [line:113]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:02:26,598 - INFO basePage.py [line:113]: 在"输入账号"输入"pengjie",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-19 16:02:26,674 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:02:26,674 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:02:26,686 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:02:26,686 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-19 16:02:26,747 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:02:26,747 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:02:26,758 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:02:26,758 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-19 16:02:28,813 - INFO basePage.py [line:33]: 等待"断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2022-01-19 16:02:28,813 - INFO basePage.py [line:33]: 等待"断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/div/div[1]/div[3]/div[2]/span/span/button/span")
+2022-01-19 16:02:28,847 - INFO basePage.py [line:38]: 等待"断言"时长:0:00:00.033662
+2022-01-19 16:02:28,847 - INFO basePage.py [line:38]: 等待"断言"时长:0:00:00.033662

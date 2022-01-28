@@ -1,0 +1,484 @@
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1082, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "e:\12\TestCase\test_request.py", line 60, in <module>
+    pytest.main(["--alluredir", report_path])
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\config\__init__.py", line 162, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 316, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 269, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 323, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 348, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 109, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 120, in runtestprotocol
+    rep = call_and_report(item, "setup", log)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 215, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 254, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 311, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 255, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 150, in pytest_runtest_setup
+    item.session._setupstate.prepare(item)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 449, in prepare
+    col.setup()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 1647, in setup
+    self._request._fillfixtures()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 568, in _fillfixtures
+    item.funcargs[argname] = self.getfixturevalue(argname)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 581, in getfixturevalue
+    fixturedef = self._get_active_fixturedef(argname)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 601, in _get_active_fixturedef
+    self._compute_fixture_value(fixturedef)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 687, in _compute_fixture_value
+    fixturedef.execute(request=subrequest)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 1072, in execute
+    result = hook.pytest_fixture_setup(fixturedef=self, request=request)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 1126, in pytest_fixture_setup
+    result = call_fixture_func(fixturefunc, request, kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 925, in call_fixture_func
+    fixture_result = next(generator)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 811, in xunit_setup_class_fixture
+    _call_with_optional_argument(func, self.obj)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 739, in _call_with_optional_argument
+    func(arg)
+  File "E:\12\TestCase\test_request.py", line 35, in setup_class
+    requestdata=RequestsHandler().post_Req(url=url,data="",json=json,headers="",params="")
+  File ".\Common\requestbase.py", line 33, in post_Req
+    self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
+Message: '连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{\'groupId\': \'3\', \'username\': \'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=\', \'password\': \'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=\', \'validate\': \'\', \'challenge\': \'\', \'seccode\': \'\'}'
+Arguments: ()
+2022-01-28 14:23:13,930 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:23:13,930 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1082, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "e:\12\TestCase\test_request.py", line 60, in <module>
+    pytest.main(["--alluredir", report_path])
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\config\__init__.py", line 162, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 316, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 269, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 323, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 348, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 109, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 120, in runtestprotocol
+    rep = call_and_report(item, "setup", log)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 215, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 254, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 311, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 255, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 150, in pytest_runtest_setup
+    item.session._setupstate.prepare(item)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 449, in prepare
+    col.setup()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 1647, in setup
+    self._request._fillfixtures()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 568, in _fillfixtures
+    item.funcargs[argname] = self.getfixturevalue(argname)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 581, in getfixturevalue
+    fixturedef = self._get_active_fixturedef(argname)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 601, in _get_active_fixturedef
+    self._compute_fixture_value(fixturedef)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 687, in _compute_fixture_value
+    fixturedef.execute(request=subrequest)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 1072, in execute
+    result = hook.pytest_fixture_setup(fixturedef=self, request=request)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 1126, in pytest_fixture_setup
+    result = call_fixture_func(fixturefunc, request, kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\fixtures.py", line 925, in call_fixture_func
+    fixture_result = next(generator)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 811, in xunit_setup_class_fixture
+    _call_with_optional_argument(func, self.obj)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 739, in _call_with_optional_argument
+    func(arg)
+  File "E:\12\TestCase\test_request.py", line 35, in setup_class
+    requestdata=RequestsHandler().post_Req(url=url,data="",json=json,headers="",params="")
+  File ".\Common\requestbase.py", line 38, in post_Req
+    self.logger.info(f'等待接口"{url}"时长:{end - start}')
+Message: '等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.335150'
+Arguments: ()
+2022-01-28 14:23:14,271 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.335150
+2022-01-28 14:23:14,271 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.335150
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1082, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "e:\12\TestCase\test_request.py", line 60, in <module>
+    pytest.main(["--alluredir", report_path])
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\config\__init__.py", line 162, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 316, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 269, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 323, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 348, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 109, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 126, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 215, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 254, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 311, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 255, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 162, in pytest_runtest_call
+    item.runtest()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 1641, in runtest
+    self.ihook.pytest_pyfunc_call(pyfuncitem=self)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 183, in pytest_pyfunc_call
+    result = testfunction(**testargs)
+  File "E:\12\TestCase\test_request.py", line 44, in test_001
+    requestdata=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']),json="",data="")
+  File ".\Common\requestbase.py", line 21, in get_Req
+    self.logger.info(f'连通接口"{url}",接口header为:"{headers}",接口param为：{params}')
+Message: '连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{\'authorization\': \'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlODdhNWQwMTE3MmE0NDVmYjUzMmM2MGI4NGFjODRhYyIsImF1dGgiOiIiLCJpZCI6MTM2LCJzdWIiOiJwZW5namllIn0.cFFDOuT-x2sCnx9s_iOg4ZwJ5TZIwLV0hVlMjL_33AiRyDWI_7lpywLccjYWLMGISkQyEbKJ1QS-KPFFxnZZ8w\'}",接口param为：{\'pageNum\': \'1\', \'pageSize\': \'20\'}'
+Arguments: ()
+2022-01-28 14:23:14,277 - INFO requestbase.py [line:21]: 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlODdhNWQwMTE3MmE0NDVmYjUzMmM2MGI4NGFjODRhYyIsImF1dGgiOiIiLCJpZCI6MTM2LCJzdWIiOiJwZW5namllIn0.cFFDOuT-x2sCnx9s_iOg4ZwJ5TZIwLV0hVlMjL_33AiRyDWI_7lpywLccjYWLMGISkQyEbKJ1QS-KPFFxnZZ8w'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 14:23:14,277 - INFO requestbase.py [line:21]: 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlODdhNWQwMTE3MmE0NDVmYjUzMmM2MGI4NGFjODRhYyIsImF1dGgiOiIiLCJpZCI6MTM2LCJzdWIiOiJwZW5namllIn0.cFFDOuT-x2sCnx9s_iOg4ZwJ5TZIwLV0hVlMjL_33AiRyDWI_7lpywLccjYWLMGISkQyEbKJ1QS-KPFFxnZZ8w'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 14:23:14,277 - INFO requestbase.py [line:21]: 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJlODdhNWQwMTE3MmE0NDVmYjUzMmM2MGI4NGFjODRhYyIsImF1dGgiOiIiLCJpZCI6MTM2LCJzdWIiOiJwZW5namllIn0.cFFDOuT-x2sCnx9s_iOg4ZwJ5TZIwLV0hVlMjL_33AiRyDWI_7lpywLccjYWLMGISkQyEbKJ1QS-KPFFxnZZ8w'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1082, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "e:\12\TestCase\test_request.py", line 60, in <module>
+    pytest.main(["--alluredir", report_path])
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\config\__init__.py", line 162, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 316, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 269, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 323, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 348, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 109, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 126, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 215, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 254, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 311, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 255, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 162, in pytest_runtest_call
+    item.runtest()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 1641, in runtest
+    self.ihook.pytest_pyfunc_call(pyfuncitem=self)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 183, in pytest_pyfunc_call
+    result = testfunction(**testargs)
+  File "E:\12\TestCase\test_request.py", line 44, in test_001
+    requestdata=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']),json="",data="")
+  File ".\Common\requestbase.py", line 26, in get_Req
+    self.logger.info(f'等待接口"{url}"时长:{end - start}')
+Message: '等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.147604'
+Arguments: ()
+2022-01-28 14:23:14,427 - INFO requestbase.py [line:26]: 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.147604
+2022-01-28 14:23:14,427 - INFO requestbase.py [line:26]: 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.147604
+2022-01-28 14:23:14,427 - INFO requestbase.py [line:26]: 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.147604
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1082, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "e:\12\TestCase\test_request.py", line 60, in <module>
+    pytest.main(["--alluredir", report_path])
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\config\__init__.py", line 162, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 316, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 269, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 323, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 348, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 109, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 126, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 215, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 254, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 311, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 255, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 162, in pytest_runtest_call
+    item.runtest()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 1641, in runtest
+    self.ihook.pytest_pyfunc_call(pyfuncitem=self)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 183, in pytest_pyfunc_call
+    result = testfunction(**testargs)
+  File "E:\12\TestCase\test_request.py", line 47, in test_001
+    asser.assert_code(200,requestdata.status_code)
+  File ".\Common\assertbase.py", line 28, in assert_code
+    self.logger.info(f'预计接口返回code为"{code}",实际返回code为:"{url_code}"')
+Message: '预计接口返回code为"200",实际返回code为:"200"'
+Arguments: ()
+2022-01-28 14:23:14,430 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"200"
+2022-01-28 14:23:14,430 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"200"
+2022-01-28 14:23:14,430 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"200"
+--- Logging error ---
+Traceback (most recent call last):
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\logging\__init__.py", line 1082, in emit
+    stream.write(msg + self.terminator)
+OSError: [WinError 6] 句柄无效。
+Call stack:
+  File "e:\12\TestCase\test_request.py", line 60, in <module>
+    pytest.main(["--alluredir", report_path])
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\config\__init__.py", line 162, in main
+    ret: Union[ExitCode, int] = config.hook.pytest_cmdline_main(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 316, in pytest_cmdline_main
+    return wrap_session(config, _main)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 269, in wrap_session
+    session.exitstatus = doit(config, session) or 0
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 323, in _main
+    config.hook.pytest_runtestloop(session=session)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\main.py", line 348, in pytest_runtestloop
+    item.config.hook.pytest_runtest_protocol(item=item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 109, in pytest_runtest_protocol
+    runtestprotocol(item, nextitem=nextitem)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 126, in runtestprotocol
+    reports.append(call_and_report(item, "call", log))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 215, in call_and_report
+    call = call_runtest_hook(item, when, **kwds)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 254, in call_runtest_hook
+    return CallInfo.from_call(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 311, in from_call
+    result: Optional[TResult] = func()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 255, in <lambda>
+    lambda: ihook(item=item, **kwds), when=when, reraise=reraise
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\runner.py", line 162, in pytest_runtest_call
+    item.runtest()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 1641, in runtest
+    self.ihook.pytest_pyfunc_call(pyfuncitem=self)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_hooks.py", line 265, in __call__
+    return self._hookexec(self.name, self.get_hookimpls(), kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_manager.py", line 80, in _hookexec
+    return self._inner_hookexec(hook_name, methods, kwargs, firstresult)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\pluggy\_callers.py", line 39, in _multicall
+    res = hook_impl.function(*args)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\_pytest\python.py", line 183, in pytest_pyfunc_call
+    result = testfunction(**testargs)
+  File "E:\12\TestCase\test_request.py", line 47, in test_001
+    asser.assert_code(200,requestdata.status_code)
+  File ".\Common\assertbase.py", line 31, in assert_code
+    self.logger.info(f'预计接口返回code为"{code}",实际返回code为:"{url_code}"')
+Message: '预计接口返回code为"200",实际返回code为:"200"'
+Arguments: ()
+2022-01-28 14:23:14,432 - INFO assertbase.py [line:31]: 预计接口返回code为"200",实际返回code为:"200"
+2022-01-28 14:23:14,432 - INFO assertbase.py [line:31]: 预计接口返回code为"200",实际返回code为:"200"
+2022-01-28 14:23:14,432 - INFO assertbase.py [line:31]: 预计接口返回code为"200",实际返回code为:"200"

@@ -28,6 +28,7 @@ class Doexcel():
 if __name__ == "__main__":
     data_list=Doexcel().excel_data_list('E:/12/Config/oms_request.xls',"Sheet1")
     # print(data_list)
-    final_data=Doexcel().get_test_data(data_list, "test_001")
+    final_data=Doexcel().get_test_data(data_list, "test_001,test_002")
     print(final_data)
     print(final_data[0]['url'])
+    print(final_data[1]['url'])

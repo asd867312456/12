@@ -1,4 +1,6 @@
 # -*- coding: utf-8 -*-
+from re import T
+from tokenize import Token
 import requests
 
 from inspect import modulesbyfile
@@ -13,34 +15,32 @@ from Common.basePage import BasePage
 from Common.excel_base import Doexcel
 from Common.requestbase import RequestsHandler
 from Common.assertbase import Assertions
+from Common.token_base import headerdata
 import random
-
-
-
-
-
-url="https://supplychain.dev.jmj1995.com/items"
-params={"pageNum":"1","pageSize":"20"}
-hea={"authorization":"Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJmMWQ0ZjA0MGJlY2U0NTQ1YTdkMGExZDUwYWE5MjM3MyIsImF1dGgiOiIiLCJpZCI6MTM2LCJzdWIiOiJwZW5namllIn0.y1U_gRL0wQ6h_8RTs-mrtaHd0x6LUQDvEXU3jHqDTvE4RtFPsoxuIyg01iwhk3nQhIC3ZoPZAjSs3x77IxSRTQ"}
-
 data_list=Doexcel().excel_data_list('E:/12/Config/oms_request.xls',"Sheet1")
-# print(data_list)
 asser=Assertions()
-# print(a.url)
-# print(a.headers)
-
+header_list=headerdata().header()
 class Test_request():
     def setup(self):
         print("1")
-    def test_001(self):
-        final_data=Doexcel().get_test_data(data_list, "test_001")
-        # print(final_data)
-        # print(final_data[0]['url'])
-        requestdata=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']),json="",data="")
-        print(requestdata.text)
-        print(requestdata.status_code)
-        asser.assert_code(200,requestdata.status_code)
-        # reques=requests.get(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']))
+    @pytest.mark.parametrize("a",["1","2","3"])
+    #当A=1时为品项搜索，当A等于2时为品项查看，当A等于3时为品项编辑。
+    @allure.story("品项管理接口搜索/查看/编辑，当A=1时为品项搜索，当A等于2时为品项查看，当A等于3时为品项编辑。")
+    @pytest.mark.test_001
+    @pytest.mark.flaky(reruns=0,reruns_delay=10)
+    def test_001(self,a):
+        final_data=Doexcel().get_test_data(data_list, "test_001，test_002，test_003")
+        if a == "1":
+            requestdata=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=header_list,json="",data="")
+            asser.assert_code(final_data[0]['status_code'],requestdata.status_code)
+        elif a== "2":
+            requestdata=RequestsHandler().get_Req(url=final_data[1]['url'],params="",headers=header_list,json="",data="")
+            asser.assert_code(final_data[1]['status_code'],requestdata.status_code)
+        else:
+            print(final_data[2]['url'])
+            print(final_data[2]['bodys'])
+            requestdata=RequestsHandler().patch_Req(url=final_data[2]['url'],params="",headers=header_list,json=eval(final_data[2]['bodys']),data="")
+            asser.assert_code(final_data[2]['status_code'],requestdata.status_code)
     def teardown(self):
         print("2")
 if __name__ == '__main__':

@@ -64,3 +64,15 @@ class RequestsHandler():
              self.logger.exception(f'等待接口"{url}"失败')
         else:
             return res
+    def patch_Req(self,url,data,json,headers,params):
+         # '''封装一个patch方法，发送patch请求'''
+        self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
+        try:
+            start=datetime.now()
+            res=requests.patch(url=url,data=data,headers=headers,json=json,params=params)
+            end=datetime.now()
+            self.logger.info(f'等待接口"{url}"时长:{end - start}')
+        except:
+             self.logger.exception(f'等待接口"{url}"失败')
+        else:
+            return res

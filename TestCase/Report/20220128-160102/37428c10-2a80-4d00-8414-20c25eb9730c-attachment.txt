@@ -1,0 +1,4 @@
+[32mINFO    [0m root:requestbase.py:21 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIyNTU5ZmY4MWUxZGE0Y2JlYWMxZWViMjg4YWJlMTE3OSIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.Jbdj9aPhgS4zBGFjSH_1lpdYl1d_I8Iyqm8cl0TNGdk_VO9Kwhjl5YHxZT4a2HkcZ6qKKEqAy5rFwCRTsM4HGQ'}",接口param为：
+[32mINFO    [0m root:requestbase.py:26 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.063827
+[32mINFO    [0m root:assertbase.py:28 预计接口返回code为"200.0",实际返回code为:"200"
+[32mINFO    [0m root:assertbase.py:31 预计接口返回code为"200.0",实际返回code为:"200"

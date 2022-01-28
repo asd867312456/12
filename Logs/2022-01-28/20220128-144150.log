@@ -1,0 +1,66 @@
+2022-01-28 14:41:50,852 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:41:50,852 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:41:50,852 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:41:51,245 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.386380
+2022-01-28 14:41:51,245 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.386380
+2022-01-28 14:41:51,245 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.386380
+2022-01-28 14:41:51,250 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:41:51,250 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:41:51,250 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-28 14:41:51,497 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.246373
+2022-01-28 14:41:51,497 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.246373
+2022-01-28 14:41:51,497 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.246373
+2022-01-28 14:41:51,500 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIxZTkwNDMyN2NiNTg0OWIwODc5Yjg3OTQxZjM1YTNkNSIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.ShbkjOOHFvZjI8epb-qmRpRoTphZ3f1OGe9jl2NAU6XXEWjE2o-P_v0d6IxxRDyQIX0dKyt-pKBsLB1oOD3AlQ",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 14:41:51,500 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIxZTkwNDMyN2NiNTg0OWIwODc5Yjg3OTQxZjM1YTNkNSIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.ShbkjOOHFvZjI8epb-qmRpRoTphZ3f1OGe9jl2NAU6XXEWjE2o-P_v0d6IxxRDyQIX0dKyt-pKBsLB1oOD3AlQ",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 14:41:51,500 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIxZTkwNDMyN2NiNTg0OWIwODc5Yjg3OTQxZjM1YTNkNSIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.ShbkjOOHFvZjI8epb-qmRpRoTphZ3f1OGe9jl2NAU6XXEWjE2o-P_v0d6IxxRDyQIX0dKyt-pKBsLB1oOD3AlQ",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 14:41:51,502 - ERROR requestbase.py [line:28]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"失败
+Traceback (most recent call last):
+  File ".\Common\requestbase.py", line 24, in get_Req
+    res=requests.get(url=url,headers=headers,params=params,data=data,json=json)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 317, in prepare
+    self.prepare_headers(headers)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 449, in prepare_headers
+    for header in headers.items():
+AttributeError: 'str' object has no attribute 'items'
+2022-01-28 14:41:51,502 - ERROR requestbase.py [line:28]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"失败
+Traceback (most recent call last):
+  File ".\Common\requestbase.py", line 24, in get_Req
+    res=requests.get(url=url,headers=headers,params=params,data=data,json=json)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 317, in prepare
+    self.prepare_headers(headers)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 449, in prepare_headers
+    for header in headers.items():
+AttributeError: 'str' object has no attribute 'items'
+2022-01-28 14:41:51,502 - ERROR requestbase.py [line:28]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"失败
+Traceback (most recent call last):
+  File ".\Common\requestbase.py", line 24, in get_Req
+    res=requests.get(url=url,headers=headers,params=params,data=data,json=json)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 76, in get
+    return request('get', url, params=params, **kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\api.py", line 61, in request
+    return session.request(method=method, url=url, **kwargs)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 528, in request
+    prep = self.prepare_request(req)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\sessions.py", line 456, in prepare_request
+    p.prepare(
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 317, in prepare
+    self.prepare_headers(headers)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\requests\models.py", line 449, in prepare_headers
+    for header in headers.items():
+AttributeError: 'str' object has no attribute 'items'

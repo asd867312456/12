@@ -24,7 +24,7 @@ class Test_request():
     def setup(self):
         print("1")
     @pytest.mark.parametrize("a",["1","2","3"])
-    #当A=1时为品项搜索，当A等于2时为品项查看，当A等于3时为品项编辑。
+    #当A=1时为品项搜索，当A等于2时为品项查看，当A等于3时为品项编辑。。
     @allure.story("品项管理接口搜索/查看/编辑，当A=1时为品项搜索，当A等于2时为品项查看，当A等于3时为品项编辑。")
     @pytest.mark.test_001
     @pytest.mark.flaky(reruns=0,reruns_delay=10)

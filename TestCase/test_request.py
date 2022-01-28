@@ -25,7 +25,7 @@ hea={"authorization":"Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJmMWQ0ZjA0MGJlY2U0NT
 
 data_list=Doexcel().excel_data_list('E:/12/Config/oms_request.xls',"Sheet1")
 # print(data_list)
-
+asser=Assertions()
 # print(a.url)
 # print(a.headers)
 
@@ -36,10 +36,11 @@ class Test_request():
         final_data=Doexcel().get_test_data(data_list, "test_001")
         # print(final_data)
         # print(final_data[0]['url'])
-        a=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']),json="",data="")
-        print(a.text)
-        print(a.status_code)
-        reques=requests.get(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']))
+        requestdata=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']),json="",data="")
+        print(requestdata.text)
+        print(requestdata.status_code)
+        asser.assert_code(200,requestdata.status_code)
+        # reques=requests.get(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=eval(final_data[0]['headers']))
     def teardown(self):
         print("2")
 if __name__ == '__main__':

@@ -1,0 +1,12 @@
+2022-01-28 09:10:07,967 - INFO requestbase.py [line:21]: 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI5OTdiNzEzZTc2ZDQ0ZmU4YjU5MzhlM2VhOGVjZjE1MCIsImF1dGgiOiIiLCJpZCI6MTYyLCJzdWIiOiLlva3mnbAo6aKE55Sf5Lqn5biQ5Y-3KSJ9.N5W8OwK9l1WC-U_XpYzA7YiBQn8XJvRsYQNwESLwnzmiBQDZ2zPA-QbPX75a9ByHg9i-k6S7RreFSDTAoFRK_g'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 09:10:07,967 - INFO requestbase.py [line:21]: 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI5OTdiNzEzZTc2ZDQ0ZmU4YjU5MzhlM2VhOGVjZjE1MCIsImF1dGgiOiIiLCJpZCI6MTYyLCJzdWIiOiLlva3mnbAo6aKE55Sf5Lqn5biQ5Y-3KSJ9.N5W8OwK9l1WC-U_XpYzA7YiBQn8XJvRsYQNwESLwnzmiBQDZ2zPA-QbPX75a9ByHg9i-k6S7RreFSDTAoFRK_g'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 09:10:07,967 - INFO requestbase.py [line:21]: 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI5OTdiNzEzZTc2ZDQ0ZmU4YjU5MzhlM2VhOGVjZjE1MCIsImF1dGgiOiIiLCJpZCI6MTYyLCJzdWIiOiLlva3mnbAo6aKE55Sf5Lqn5biQ5Y-3KSJ9.N5W8OwK9l1WC-U_XpYzA7YiBQn8XJvRsYQNwESLwnzmiBQDZ2zPA-QbPX75a9ByHg9i-k6S7RreFSDTAoFRK_g'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-28 09:10:08,034 - INFO requestbase.py [line:26]: 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.062161
+2022-01-28 09:10:08,034 - INFO requestbase.py [line:26]: 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.062161
+2022-01-28 09:10:08,034 - INFO requestbase.py [line:26]: 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:00.062161
+2022-01-28 09:10:08,038 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"401"
+2022-01-28 09:10:08,038 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"401"
+2022-01-28 09:10:08,038 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"401"
+2022-01-28 09:10:08,041 - ERROR assertbase.py [line:33]: 预计接口返回code为"200",实际返回code为:"401",失败
+2022-01-28 09:10:08,041 - ERROR assertbase.py [line:33]: 预计接口返回code为"200",实际返回code为:"401",失败
+2022-01-28 09:10:08,041 - ERROR assertbase.py [line:33]: 预计接口返回code为"200",实际返回code为:"401",失败

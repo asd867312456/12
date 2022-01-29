@@ -17,7 +17,7 @@ from Common.requestbase import RequestsHandler
 from Common.assertbase import Assertions
 from Common.token_base import headerdata
 import random
-data_list=Doexcel().excel_data_list('../Config/oms_request.xls',"Sheet1")
+data_list=Doexcel().excel_data_list('Config/oms_request.xls',"Sheet1")
 asser=Assertions()
 header_list=headerdata().header()
 class Test_request():

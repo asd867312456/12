@@ -17,7 +17,7 @@ from Common.excel_base import Doexcel
 #随机生成九位数
 number=str(99)+"".join(random.sample(["0","1","2","3","4","5","6","7","8","9"],9))
 sys.path.append(".")
-data_list=Doexcel().excel_data_list("../Config/oms_ur.xls","Sheet1")
+data_list=Doexcel().excel_data_list("Config/oms_ur.xls","Sheet1")
 @allure.feature("OMS品牌视角")
 class Test_1:
     def setup(self):  

@@ -1,4 +1,0 @@
-[32mINFO    [0m root:requestbase.py:69 连通接口"https://supplychain-server-stg.jmj1995.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
-[32mINFO    [0m root:requestbase.py:74 等待接口"https://supplychain-server-stg.jmj1995.com/items/1"时长:0:00:00.079758
-[32mINFO    [0m root:assertbase.py:28 预计接口返回code为"200.0",实际返回code为:"200"
-[32mINFO    [0m root:assertbase.py:31 预计接口返回code为"200.0",实际返回code为:"200"

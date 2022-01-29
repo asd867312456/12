@@ -1,0 +1,16 @@
+2022-01-29 17:13:28,364 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJjNjdhZGVkZTdmMDU0ZWQ0OWE3Y2Q1NGQwOWJjYzQwOCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.gh7Ha7NOPDXC4twr5wkeXjbBbEReMjPiJDTew7TWw05q7UL0HtUz2syISYqIkVGwvKQl07LlXl4b_uRYl0ys5w'}",接口param为：
+2022-01-29 17:13:28,364 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJjNjdhZGVkZTdmMDU0ZWQ0OWE3Y2Q1NGQwOWJjYzQwOCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.gh7Ha7NOPDXC4twr5wkeXjbBbEReMjPiJDTew7TWw05q7UL0HtUz2syISYqIkVGwvKQl07LlXl4b_uRYl0ys5w'}",接口param为：
+2022-01-29 17:13:28,364 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJjNjdhZGVkZTdmMDU0ZWQ0OWE3Y2Q1NGQwOWJjYzQwOCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.gh7Ha7NOPDXC4twr5wkeXjbBbEReMjPiJDTew7TWw05q7UL0HtUz2syISYqIkVGwvKQl07LlXl4b_uRYl0ys5w'}",接口param为：
+2022-01-29 17:13:28,364 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJjNjdhZGVkZTdmMDU0ZWQ0OWE3Y2Q1NGQwOWJjYzQwOCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.gh7Ha7NOPDXC4twr5wkeXjbBbEReMjPiJDTew7TWw05q7UL0HtUz2syISYqIkVGwvKQl07LlXl4b_uRYl0ys5w'}",接口param为：
+2022-01-29 17:13:28,441 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.076871
+2022-01-29 17:13:28,441 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.076871
+2022-01-29 17:13:28,441 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.076871
+2022-01-29 17:13:28,441 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.076871
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 17:13:28,441 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

@@ -33,6 +33,9 @@ class Test_request():
         final_data=Doexcel().get_test_data(data_list, "test_001，test_002，test_003")
         if a == "1":
             requestdata=RequestsHandler().get_Req(url=final_data[0]['url'],params=eval(final_data[0]['params']),headers=header_list,json="",data="")
+            print(requestdata.text)
+            print(requestdata.url)
+            print(requestdata.headers)
             asser.assert_code(final_data[0]['status_code'],requestdata.status_code)
         elif a== "2":
             requestdata=RequestsHandler().get_Req(url=final_data[1]['url'],params="",headers=header_list,json="",data="")

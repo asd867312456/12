@@ -1,2 +1,0 @@
-[32mINFO    [0m root:requestbase.py:21 连通接口"https://supplychain.dev.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJmMWQ0ZjA0MGJlY2U0NTQ1YTdkMGExZDUwYWE5MjM3MyIsImF1dGgiOiIiLCJpZCI6MTM2LCJzdWIiOiJwZW5namllIn0.y1U_gRL0wQ6h_8RTs-mrtaHd0x6LUQDvEXU3jHqDTvE4RtFPsoxuIyg01iwhk3nQhIC3ZoPZAjSs3x77IxSRTQ'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
-[32mINFO    [0m root:requestbase.py:26 等待接口"https://supplychain.dev.jmj1995.com/items"时长:0:00:01.817225

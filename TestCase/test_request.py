@@ -5,7 +5,7 @@ import requests
 
 from inspect import modulesbyfile
 import sys 
-sys.path.append(".")
+sys.path.append("..")
 import os
 import time
 import pytest
@@ -17,7 +17,7 @@ from Common.requestbase import RequestsHandler
 from Common.assertbase import Assertions
 from Common.token_base import headerdata
 import random
-data_list=Doexcel().excel_data_list('Config/oms_request.xls',"Sheet1")
+data_list=Doexcel().excel_data_list('../Config/oms_request.xls',"Sheet1")
 asser=Assertions()
 header_list=headerdata().header()
 class Test_request():
@@ -28,6 +28,7 @@ class Test_request():
     @allure.story("品项管理接口搜索/查看/编辑，当A=1时为品项搜索，当A等于2时为品项查看，当A等于3时为品项编辑。")
     @pytest.mark.test_001
     @pytest.mark.flaky(reruns=0,reruns_delay=10)
+    # @pytest.mark.skip(reason="调式")
     def test_001(self,a):
         final_data=Doexcel().get_test_data(data_list, "test_001，test_002，test_003")
         if a == "1":

@@ -1,0 +1,128 @@
+2022-01-29 16:44:14,185 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:14,185 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:14,218 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:14,218 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:14,297 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:14,297 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:14,310 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:14,310 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:14,372 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:14,372 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:14,384 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:14,384 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:17,442 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:17,442 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:17,520 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:17,520 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:17,608 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:17,608 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:17,622 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:17,622 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:19,835 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:19,835 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:19,889 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:19,889 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:19,966 - INFO basePage.py [line:88]: 查找"查看第一个模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span")
+2022-01-29 16:44:19,966 - INFO basePage.py [line:88]: 查找"查看第一个模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span")
+2022-01-29 16:44:21,744 - INFO basePage.py [line:140]: 点击"查看第一个模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span")
+2022-01-29 16:44:21,744 - INFO basePage.py [line:140]: 点击"查看第一个模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span")
+2022-01-29 16:44:22,199 - INFO basePage.py [line:33]: 等待"查看员工餐模板断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button")
+2022-01-29 16:44:22,199 - INFO basePage.py [line:33]: 等待"查看员工餐模板断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button")
+2022-01-29 16:44:22,243 - INFO basePage.py [line:38]: 等待"查看员工餐模板断言"时长:0:00:00.041886
+2022-01-29 16:44:22,243 - INFO basePage.py [line:38]: 等待"查看员工餐模板断言"时长:0:00:00.041886
+2022-01-29 16:44:40,827 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:40,827 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:40,840 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:40,840 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:44:40,917 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:40,917 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:40,934 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:40,934 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:44:40,999 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:40,999 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:41,011 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:41,011 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:44:44,073 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:44,073 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:44,086 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:44,086 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:44:44,132 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:44,132 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:44,143 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:44,143 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:44:46,310 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:46,310 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:46,322 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:46,322 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:44:46,395 - INFO basePage.py [line:88]: 查找"点击编辑员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-29 16:44:46,395 - INFO basePage.py [line:88]: 查找"点击编辑员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-29 16:44:48,794 - INFO basePage.py [line:140]: 点击"点击编辑员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-29 16:44:48,794 - INFO basePage.py [line:140]: 点击"点击编辑员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span")
+2022-01-29 16:44:51,265 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-29 16:44:51,265 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-29 16:44:51,414 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-29 16:44:51,414 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]")
+2022-01-29 16:44:51,455 - INFO basePage.py [line:74]: 等待"修改员工餐模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-01-29 16:44:51,455 - INFO basePage.py [line:74]: 等待"修改员工餐模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-01-29 16:44:51,899 - INFO basePage.py [line:79]: 等待"修改员工餐模板断言"时长:0:00:00.442817
+2022-01-29 16:44:51,899 - INFO basePage.py [line:79]: 等待"修改员工餐模板断言"时长:0:00:00.442817
+2022-01-29 16:45:10,274 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:45:10,274 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:45:10,288 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:45:10,288 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-01-29 16:45:10,369 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:45:10,369 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:45:10,381 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:45:10,381 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-01-29 16:45:10,448 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:45:10,448 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:45:10,461 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:45:10,461 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-01-29 16:45:13,522 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:45:13,522 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:45:13,537 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:45:13,537 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-01-29 16:45:13,585 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:45:13,585 - INFO basePage.py [line:88]: 查找"员工餐管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:45:13,597 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:45:13,597 - INFO basePage.py [line:140]: 点击"员工餐管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+2022-01-29 16:45:15,758 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:45:15,758 - INFO basePage.py [line:88]: 查找"点击员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:45:15,771 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:45:15,771 - INFO basePage.py [line:140]: 点击"点击员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li")
+2022-01-29 16:45:15,840 - INFO basePage.py [line:88]: 查找"点击删除员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-29 16:45:15,840 - INFO basePage.py [line:88]: 查找"点击删除员工餐模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-29 16:45:18,138 - INFO basePage.py [line:140]: 点击"点击删除员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-29 16:45:18,138 - INFO basePage.py [line:140]: 点击"点击删除员工餐模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/span/span/button/span")
+2022-01-29 16:45:18,510 - INFO basePage.py [line:88]: 查找"二次确定删除"元素，元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-01-29 16:45:18,510 - INFO basePage.py [line:88]: 查找"二次确定删除"元素，元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-01-29 16:45:18,527 - INFO basePage.py [line:140]: 点击"二次确定删除",元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-01-29 16:45:18,527 - INFO basePage.py [line:140]: 点击"二次确定删除",元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-01-29 16:45:18,590 - INFO basePage.py [line:74]: 等待"删除断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-01-29 16:45:18,590 - INFO basePage.py [line:74]: 等待"删除断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-01-29 16:45:18,724 - INFO basePage.py [line:79]: 等待"删除断言"时长:0:00:00.133642
+2022-01-29 16:45:18,724 - INFO basePage.py [line:79]: 等待"删除断言"时长:0:00:00.133642
+2022-01-29 16:45:23,803 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0MGJlMzBlMTg0NjI0MzlkOGJmYmM5NzhkM2RiOGUwNyIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.cXM-u5ckMh3_EZUtCCxQm77JfKJfJz6atcFA0xt0eDFYonqlC9U9pmwJ_sDCUUboxSLxkA5bPbe9wbtZjHz3dA'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-29 16:45:23,803 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0MGJlMzBlMTg0NjI0MzlkOGJmYmM5NzhkM2RiOGUwNyIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.cXM-u5ckMh3_EZUtCCxQm77JfKJfJz6atcFA0xt0eDFYonqlC9U9pmwJ_sDCUUboxSLxkA5bPbe9wbtZjHz3dA'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-29 16:45:23,962 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"时长:0:00:00.157608
+2022-01-29 16:45:23,962 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"时长:0:00:00.157608
+2022-01-29 16:45:23,963 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:23,963 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:23,965 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:23,965 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:23,974 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0MGJlMzBlMTg0NjI0MzlkOGJmYmM5NzhkM2RiOGUwNyIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.cXM-u5ckMh3_EZUtCCxQm77JfKJfJz6atcFA0xt0eDFYonqlC9U9pmwJ_sDCUUboxSLxkA5bPbe9wbtZjHz3dA'}",接口param为：
+2022-01-29 16:45:23,974 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0MGJlMzBlMTg0NjI0MzlkOGJmYmM5NzhkM2RiOGUwNyIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.cXM-u5ckMh3_EZUtCCxQm77JfKJfJz6atcFA0xt0eDFYonqlC9U9pmwJ_sDCUUboxSLxkA5bPbe9wbtZjHz3dA'}",接口param为：
+2022-01-29 16:45:24,064 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.085770
+2022-01-29 16:45:24,064 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.085770
+2022-01-29 16:45:24,065 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,065 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,066 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,066 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,074 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-01-29 16:45:24,074 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-01-29 16:45:24,154 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1"时长:0:00:00.079758
+2022-01-29 16:45:24,154 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1"时长:0:00:00.079758
+2022-01-29 16:45:24,155 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,155 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,156 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-29 16:45:24,156 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

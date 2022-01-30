@@ -1,0 +1,56 @@
+2022-01-30 11:19:04,943 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-30 11:19:04,943 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-30 11:19:05,252 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.306497
+2022-01-30 11:19:05,252 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.306497
+2022-01-30 11:19:05,656 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-30 11:19:05,656 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.jmj1995.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=', 'password': 'NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-01-30 11:19:06,016 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.354111
+2022-01-30 11:19:06,016 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.jmj1995.com/authority/auth/login"时长:0:00:00.354111
+2022-01-30 11:19:06,049 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0YWEwYmNlOWUzMzY0YjQ1YTJlZDc4ZmMzODg0OGYyNCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.IWJj3K3EL-znlUAAnmQtbIpZKTf4sXJ8AMZ0MsaQHICcNquAqyaexUyRBUE9Vyt9Qd6v4wJLFnr1_EoC1FtYcA'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-30 11:19:06,049 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0YWEwYmNlOWUzMzY0YjQ1YTJlZDc4ZmMzODg0OGYyNCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.IWJj3K3EL-znlUAAnmQtbIpZKTf4sXJ8AMZ0MsaQHICcNquAqyaexUyRBUE9Vyt9Qd6v4wJLFnr1_EoC1FtYcA'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-01-30 11:19:06,315 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"时长:0:00:00.261277
+2022-01-30 11:19:06,315 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items"时长:0:00:00.261277
+2022-01-30 11:19:06,317 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,317 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,320 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,320 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,332 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0YWEwYmNlOWUzMzY0YjQ1YTJlZDc4ZmMzODg0OGYyNCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.IWJj3K3EL-znlUAAnmQtbIpZKTf4sXJ8AMZ0MsaQHICcNquAqyaexUyRBUE9Vyt9Qd6v4wJLFnr1_EoC1FtYcA'}",接口param为：
+2022-01-30 11:19:06,332 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0YWEwYmNlOWUzMzY0YjQ1YTJlZDc4ZmMzODg0OGYyNCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.IWJj3K3EL-znlUAAnmQtbIpZKTf4sXJ8AMZ0MsaQHICcNquAqyaexUyRBUE9Vyt9Qd6v4wJLFnr1_EoC1FtYcA'}",接口param为：
+2022-01-30 11:19:06,474 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.137630
+2022-01-30 11:19:06,474 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1/belongingStandardAlternativeItemGroup"时长:0:00:00.137630
+2022-01-30 11:19:06,477 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,477 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,479 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,479 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,487 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-01-30 11:19:06,487 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-01-30 11:19:06,588 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1"时长:0:00:00.097733
+2022-01-30 11:19:06,588 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/items/1"时长:0:00:00.097733
+2022-01-30 11:19:06,591 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,591 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,593 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,593 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,602 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-01-30 11:19:06,602 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-01-30 11:19:06,723 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/shops/1"时长:0:00:00.116688
+2022-01-30 11:19:06,723 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/shops/1"时长:0:00:00.116688
+2022-01-30 11:19:06,726 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,726 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,728 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,728 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,736 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0YWEwYmNlOWUzMzY0YjQ1YTJlZDc4ZmMzODg0OGYyNCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.IWJj3K3EL-znlUAAnmQtbIpZKTf4sXJ8AMZ0MsaQHICcNquAqyaexUyRBUE9Vyt9Qd6v4wJLFnr1_EoC1FtYcA'}",接口param为：
+2022-01-30 11:19:06,736 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.jmj1995.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI0YWEwYmNlOWUzMzY0YjQ1YTJlZDc4ZmMzODg0OGYyNCIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.IWJj3K3EL-znlUAAnmQtbIpZKTf4sXJ8AMZ0MsaQHICcNquAqyaexUyRBUE9Vyt9Qd6v4wJLFnr1_EoC1FtYcA'}",接口param为：
+2022-01-30 11:19:06,827 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/suppliers/1"时长:0:00:00.087738
+2022-01-30 11:19:06,827 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.jmj1995.com/suppliers/1"时长:0:00:00.087738
+2022-01-30 11:19:06,830 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,830 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,832 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,832 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,842 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-01-30 11:19:06,842 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-01-30 11:19:06,956 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/suppliers/1"时长:0:00:00.112699
+2022-01-30 11:19:06,956 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/suppliers/1"时长:0:00:00.112699
+2022-01-30 11:19:06,959 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,959 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,961 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-01-30 11:19:06,961 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

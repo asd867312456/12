@@ -27,7 +27,7 @@ class Test_request():
         print(data["url"])
         if data["method"] == "get":
             if data["params"] != "" :
-                requestdata=RequestsHandler().get_Req(url=data["url"],params=eval(data["params"]),headers=header_list,json=data["json"],data=data["data"])
+                requestdata=RequestsHandler().get_Req(url=data["url"],params=eval(data["params"]),headers=header_list,json=data["json"],data=data["data"],)
                 asser.assert_code(data['status_code'],requestdata.status_code)
             else:
                 requestdata=RequestsHandler().get_Req(url=data["url"],params=data["params"],headers=header_list,json=data["json"],data=data["data"])

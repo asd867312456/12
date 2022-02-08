@@ -39,7 +39,7 @@ class Test_1:
     @pytest.mark.parametrize(
     "usr,password",[("pengjie","Qq123456"),("pengjie32","Qq123456"),("pengjie","qq123")],)
     @pytest.mark.flaky(reruns=1,reruns_delay=10) 
-    @pytest.mark.skip(reason="调式")
+    # @pytest.mark.skip(reason="调式")
     def test_001(self,usr,password):
         #登录
         final_data=Doexcel().get_test_data(data_list, "test_001")
@@ -57,7 +57,7 @@ class Test_1:
     @allure.story("品项管理查看/编辑（当A=1时为查看，当A等于2时为编辑）")
     @pytest.mark.test_002
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    @pytest.mark.skip(reason="调式")
+    # @pytest.mark.skip(reason="调式")
     def test_002(self,a):
         #品项管理查看/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_002")
@@ -87,7 +87,7 @@ class Test_1:
     @allure.story("门店管理-编辑门店")
     @pytest.mark.test_003
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    @pytest.mark.skip(reason="调式")
+    # @pytest.mark.skip(reason="调式")
     def test_003(self):
         #门店管理/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_003")
@@ -104,7 +104,7 @@ class Test_1:
     @allure.story("供应商查看/编辑（当A=1时为查看，当A等于2时为编辑）")
     @pytest.mark.test_004
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    @pytest.mark.skip(reason="调式")
+    # @pytest.mark.skip(reason="调式")
     def test_004(self,a):
         #供应商管理查看/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_004")
@@ -129,7 +129,7 @@ class Test_1:
     @allure.story("员工餐新增/查看/编辑/删除，当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为删除。")
     @pytest.mark.test_005
     @pytest.mark.flaky(reruns=0,reruns_delay=10)
-    @pytest.mark.skip(reason="调式")
+    # @pytest.mark.skip(reason="调式")
     def test_005(self,a):
         #员工餐新增/查看/编辑/删除
         final_data=Doexcel().get_test_data(data_list, "test_005")
@@ -168,7 +168,7 @@ class Test_1:
     #,"2","3","4"
     @pytest.mark.parametrize("a",["1","2","3","4","5","6"])
     #当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为停用，当A=5时为启用，当A等于6时为删除，。
-    @allure.story("盘点模板新增/查看/编辑/删除，当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为停用，当A=5时为启用，当A等于6时为删除，。")
+    @allure.story("盘点模板新增/查看/编辑/删除当A=1时为新增 当A等于2时为查看 当A等于3时为编辑 当A等于4时为停用 当A=5时为启用 当A等于6时为删除。")
     @pytest.mark.test_006
     @pytest.mark.flaky(reruns=0,reruns_delay=10)
     # @pytest.mark.skip(reason="调式")

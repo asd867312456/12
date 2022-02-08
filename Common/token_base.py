@@ -1,8 +1,9 @@
+# -*- coding: utf-8 -*-
 import sys 
 sys.path.append(".")
 from Common.requestbase import RequestsHandler
-url="https://gateway-stg.jmj1995.com/authority/auth/login"
-json={"groupId":"3","username":"zaBjHxGvRVWGsVQ/zHecPnJqslj4HcDGZK7ETczs2779Znband2qnM9dVgyq2G9slLX69nVKb2HBQ51VgVuivFK5oizx/RSIgSmZlSQDaHHL4IHAnbwoGNWO85ERBFxOerLaNhP0EYrSkNABcJOfqiCRfazIXSxUKQd4XOx3H7c=","password":"NXn+tGp/+m3dtqV2Em2fqAs21CQIjm0F05JqPWzNjKUiRvvZG/MTcmilW3xymwqUzfCgM8vNMdOgVqffnD4piFrh3araElM6AW8GcyoUBz+hpEBoYY0X+ZBCXLSHTMWMc1UYbZxnMM9BNng9Mpj9kEgnuc9jE76yN6nE0fNPkvs=","validate":"","challenge":"","seccode":""}
+url="https://gateway-stg.datousoft.com/authority/auth/login"
+json={"groupId":"3","username":"TRtsH2z2egXgbqWAIOTsJBf7E+Z/nA17u7HoVWtUqBIQP3PXpTeNuxcIm2rHTBkpnuCplP+CR/CkjzNFC2oMTKzMgXJWSu97e0qqLOV+Sm8VqntO0HMC0gTlQkHzJ33LLA4x12fDEGJnLcaznG16eCYlZPgssGvazAPGvOO7Wqk=","password":"rlSCBdDGZAeGyaN7qlTWWEsZN0r8dlD7y81u2Waq2IyyUJfIZZ9A8Iua0eJpViQOeEOUQgk4L/5SaZtRQrfv3iJG2ryuw+zv8FX+DS6CY/kkZwmq6jnebMDCeaUhcBkbS+6g3vOM9Q0fCR/5yPLOJ5SQlYAnyL+pd66NSlFkh4M=","validate":'',"challenge":'',"seccode":''}
 class headerdata():
     """获取OMS系统token,封装至header"""
     def header(self):

@@ -1,4 +1,0 @@
-[32mINFO    [0m root:requestbase.py:21 连通接口"https://supplychain-server-stg.jmj1995.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2ZTI3ODY3MWVjYWQ0MmU4Yjk4NTk4MDIyNzJjZmM2MyIsImF1dGgiOiIiLCJpZCI6NTk2LCJzdWIiOiIxMiJ9.bOYUWmd7YwpUPeJ3VlIdmuyVYa9abpPjwsTXueDzKrw6cvC7CHD8Dg5CwCYX5lPOEI-zQc3SH30DfSfEmJzG0A'}",接口param为：{"pageNum":"1","pageSize":"20"}
-[32mINFO    [0m root:requestbase.py:26 等待接口"https://supplychain-server-stg.jmj1995.com/items"时长:0:00:00.094719
-[32mINFO    [0m root:assertbase.py:28 预计接口返回code为"200.0",实际返回code为:"400"
-[1m[31mERROR   [0m root:assertbase.py:33 预计接口返回code为"200.0",实际返回code为:"400",失败

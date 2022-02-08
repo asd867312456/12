@@ -1,0 +1,76 @@
+2022-02-08 17:47:24,444 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.datousoft.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'TRtsH2z2egXgbqWAIOTsJBf7E+Z/nA17u7HoVWtUqBIQP3PXpTeNuxcIm2rHTBkpnuCplP+CR/CkjzNFC2oMTKzMgXJWSu97e0qqLOV+Sm8VqntO0HMC0gTlQkHzJ33LLA4x12fDEGJnLcaznG16eCYlZPgssGvazAPGvOO7Wqk=', 'password': 'rlSCBdDGZAeGyaN7qlTWWEsZN0r8dlD7y81u2Waq2IyyUJfIZZ9A8Iua0eJpViQOeEOUQgk4L/5SaZtRQrfv3iJG2ryuw+zv8FX+DS6CY/kkZwmq6jnebMDCeaUhcBkbS+6g3vOM9Q0fCR/5yPLOJ5SQlYAnyL+pd66NSlFkh4M=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-02-08 17:47:24,444 - INFO requestbase.py [line:33]: 连通接口"https://gateway-stg.datousoft.com/authority/auth/login",接口data为:"",接口json{'groupId': '3', 'username': 'TRtsH2z2egXgbqWAIOTsJBf7E+Z/nA17u7HoVWtUqBIQP3PXpTeNuxcIm2rHTBkpnuCplP+CR/CkjzNFC2oMTKzMgXJWSu97e0qqLOV+Sm8VqntO0HMC0gTlQkHzJ33LLA4x12fDEGJnLcaznG16eCYlZPgssGvazAPGvOO7Wqk=', 'password': 'rlSCBdDGZAeGyaN7qlTWWEsZN0r8dlD7y81u2Waq2IyyUJfIZZ9A8Iua0eJpViQOeEOUQgk4L/5SaZtRQrfv3iJG2ryuw+zv8FX+DS6CY/kkZwmq6jnebMDCeaUhcBkbS+6g3vOM9Q0fCR/5yPLOJ5SQlYAnyL+pd66NSlFkh4M=', 'validate': '', 'challenge': '', 'seccode': ''}
+2022-02-08 17:47:24,778 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.datousoft.com/authority/auth/login"时长:0:00:00.327126
+2022-02-08 17:47:24,778 - INFO requestbase.py [line:38]: 等待接口"https://gateway-stg.datousoft.com/authority/auth/login"时长:0:00:00.327126
+2022-02-08 17:47:24,789 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-02-08 17:47:24,789 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-02-08 17:47:24,789 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-02-08 17:47:25,012 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/items"时长:0:00:00.219414
+2022-02-08 17:47:25,012 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/items"时长:0:00:00.219414
+2022-02-08 17:47:25,012 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/items"时长:0:00:00.219414
+2022-02-08 17:47:25,015 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,015 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,015 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,019 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,019 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,019 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,029 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：
+2022-02-08 17:47:25,029 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：
+2022-02-08 17:47:25,029 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：
+2022-02-08 17:47:25,113 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1"时长:0:00:00.079784
+2022-02-08 17:47:25,113 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1"时长:0:00:00.079784
+2022-02-08 17:47:25,113 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1"时长:0:00:00.079784
+2022-02-08 17:47:25,116 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,116 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,116 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,118 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,118 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,118 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,127 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-02-08 17:47:25,127 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-02-08 17:47:25,127 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-02-08 17:47:25,217 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/items/1"时长:0:00:00.086770
+2022-02-08 17:47:25,217 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/items/1"时长:0:00:00.086770
+2022-02-08 17:47:25,217 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/items/1"时长:0:00:00.086770
+2022-02-08 17:47:25,219 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,219 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,219 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,221 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,221 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,221 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,231 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-02-08 17:47:25,231 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-02-08 17:47:25,231 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-02-08 17:47:25,323 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/shops/1"时长:0:00:00.089761
+2022-02-08 17:47:25,323 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/shops/1"时长:0:00:00.089761
+2022-02-08 17:47:25,323 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/shops/1"时长:0:00:00.089761
+2022-02-08 17:47:25,327 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,327 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,327 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,331 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,331 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,331 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,341 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：
+2022-02-08 17:47:25,341 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：
+2022-02-08 17:47:25,341 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiMzU1ZjMyZGZkZDI0OWFiYTNjZjViY2RmMmNhOGQxYiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.O0e3owyJlqA2_8jUH0h01987kAc5VZYxSC6lpYFuOdJEC9z0yrKEiwfvPaduzCcOSbjo1dPDFd5YSrhjbYiyVQ'}",接口param为：
+2022-02-08 17:47:25,443 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.099733
+2022-02-08 17:47:25,443 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.099733
+2022-02-08 17:47:25,443 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.099733
+2022-02-08 17:47:25,447 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,447 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,447 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,449 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,449 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,449 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,459 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-02-08 17:47:25,459 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-02-08 17:47:25,459 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-02-08 17:47:25,601 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.137724
+2022-02-08 17:47:25,601 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.137724
+2022-02-08 17:47:25,601 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.137724
+2022-02-08 17:47:25,605 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,605 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,605 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,608 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,608 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-08 17:47:25,608 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

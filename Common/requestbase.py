@@ -21,7 +21,7 @@ class RequestsHandler():
         self.logger.info(f'连通接口"{url}",接口header为:"{headers}",接口param为：{params}')
         try:
             start=datetime.now()
-            res=requests.get(url=url,headers=headers,params=params,data=data,json=json)
+            res=requests.get(url=url,headers=headers,params=params,data=data,json=json,verify=False)
             end=datetime.now()
             self.logger.info(f'等待接口"{url}"时长:{end - start}')
         except:
@@ -33,7 +33,7 @@ class RequestsHandler():
         self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
         try:
             start=datetime.now()
-            res=requests.post(url=url,headers=headers,data=data,json=json,params=params,)
+            res=requests.post(url=url,headers=headers,data=data,json=json,params=params,verify=False)
             end=datetime.now()
             self.logger.info(f'等待接口"{url}"时长:{end - start}')
         except:
@@ -45,7 +45,7 @@ class RequestsHandler():
         self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
         try:
             start=datetime.now()
-            res=requests.put(url=url,data=data,headers=headers,json=json,params=params)
+            res=requests.put(url=url,data=data,headers=headers,json=json,params=params,verify=False)
             end=datetime.now()
             self.logger.info(f'等待接口"{url}"时长:{end - start}')
         except:
@@ -57,7 +57,7 @@ class RequestsHandler():
         self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
         try:
             start=datetime.now()
-            res=requests.put(url=url,data=data,headers=headers,json=json,params=params)
+            res=requests.put(url=url,data=data,headers=headers,json=json,params=params,verify=False)
             end=datetime.now()
             self.logger.info(f'等待接口"{url}"时长:{end - start}')
         except:
@@ -69,7 +69,7 @@ class RequestsHandler():
         self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
         try:
             start=datetime.now()
-            res=requests.patch(url=url,data=data,headers=headers,json=json,params=params)
+            res=requests.patch(url=url,data=data,headers=headers,json=json,params=params,verify=False)
             end=datetime.now()
             self.logger.info(f'等待接口"{url}"时长:{end - start}')
         except:

@@ -1,0 +1,68 @@
+2022-02-07 17:03:20,805 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:20,805 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:20,823 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:20,823 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1212",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:20,898 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-07 17:03:20,898 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-07 17:03:20,912 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-07 17:03:20,912 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-07 17:03:20,972 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-07 17:03:20,972 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-07 17:03:20,983 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-07 17:03:20,983 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-07 17:03:24,048 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-07 17:03:24,048 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-07 17:03:24,060 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-07 17:03:24,060 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-07 17:03:24,102 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-07 17:03:24,102 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-07 17:03:24,116 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-07 17:03:24,116 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-07 17:03:26,366 - INFO basePage.py [line:88]: 查找"点击新增盘点模板模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-07 17:03:26,366 - INFO basePage.py [line:88]: 查找"点击新增盘点模板模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-07 17:03:26,405 - INFO basePage.py [line:140]: 点击"点击新增盘点模板模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-07 17:03:26,405 - INFO basePage.py [line:140]: 点击"点击新增盘点模板模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-07 17:03:26,522 - INFO basePage.py [line:88]: 查找"输入模板名称"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:26,522 - INFO basePage.py [line:88]: 查找"输入模板名称"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:26,591 - INFO basePage.py [line:113]: 在"输入模板名称"输入"99780942153",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:26,591 - INFO basePage.py [line:113]: 在"输入模板名称"输入"99780942153",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-07 17:03:28,719 - INFO basePage.py [line:88]: 查找"选择品项"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-07 17:03:28,719 - INFO basePage.py [line:88]: 查找"选择品项"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-07 17:03:28,732 - INFO basePage.py [line:140]: 点击"选择品项",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-07 17:03:28,732 - INFO basePage.py [line:140]: 点击"选择品项",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-07 17:03:28,816 - INFO basePage.py [line:88]: 查找"勾选第一个品项"元素，元素定位:('xpath', '/html/body/div[2]/div/div[2]/section/section/main/div/div/div/div[1]/div[4]/div[1]/table/thead/tr/th[1]/div/label/span/span')
+2022-02-07 17:03:28,816 - INFO basePage.py [line:88]: 查找"勾选第一个品项"元素，元素定位:('xpath', '/html/body/div[2]/div/div[2]/section/section/main/div/div/div/div[1]/div[4]/div[1]/table/thead/tr/th[1]/div/label/span/span')
+2022-02-07 17:03:28,837 - INFO basePage.py [line:140]: 点击"勾选第一个品项",元素定位:('xpath', '/html/body/div[2]/div/div[2]/section/section/main/div/div/div/div[1]/div[4]/div[1]/table/thead/tr/th[1]/div/label/span/span')
+2022-02-07 17:03:28,837 - INFO basePage.py [line:140]: 点击"勾选第一个品项",元素定位:('xpath', '/html/body/div[2]/div/div[2]/section/section/main/div/div/div/div[1]/div[4]/div[1]/table/thead/tr/th[1]/div/label/span/span')
+2022-02-07 17:03:29,906 - ERROR basePage.py [line:144]: "勾选第一个品项"点击失败
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 142, in click_element
+    ele.click()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <span class="el-checkbox__inner"></span> is not clickable at point (766, 158). Other element would receive the click: <th colspan="1" rowspan="1" class="el-table_4_column_21  is-center el-table-column--selection  is-leaf el-table__cell">...</th>
+  (Session info: headless chrome=97.0.4692.99)
+
+2022-02-07 17:03:29,906 - ERROR basePage.py [line:144]: "勾选第一个品项"点击失败
+Traceback (most recent call last):
+  File "..\Common\basePage.py", line 142, in click_element
+    ele.click()
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 80, in click
+    self._execute(Command.CLICK_ELEMENT)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webelement.py", line 633, in _execute
+    return self._parent.execute(command, params)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.ElementClickInterceptedException: Message: element click intercepted: Element <span class="el-checkbox__inner"></span> is not clickable at point (766, 158). Other element would receive the click: <th colspan="1" rowspan="1" class="el-table_4_column_21  is-center el-table-column--selection  is-leaf el-table__cell">...</th>
+  (Session info: headless chrome=97.0.4692.99)
+
+2022-02-07 17:03:30,095 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-02-07\[勾选第一个品项]点击异常_20220207_170329.png
+2022-02-07 17:03:30,095 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-02-07\[勾选第一个品项]点击异常_20220207_170329.png

@@ -23,6 +23,8 @@ class OmsIndex(BasePage):
     A5=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[3]/a/li")
     #点击员工餐管理
     A6=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/div")
+    #盘点模板管理
+    A7=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
     #展开模块
     b3=(By.CLASS_NAME,"hamburger-container")
     #登录
@@ -63,5 +65,9 @@ class OmsIndex(BasePage):
         elif a=="A6":
             #员工餐管理
             self.click_element(self.A6,model="员工餐管理")
+            self.driver.implicitly_wait(10)
+        elif a=="A7":
+            #盘点模板管理
+            self.click_element(self.A7,model="盘点模板管理")
             self.driver.implicitly_wait(10)
             sleep(2)

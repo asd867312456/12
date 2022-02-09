@@ -1,3 +1,5 @@
+from ast import If
+from re import X
 import sys
 sys.path.append("..")
 import os
@@ -39,7 +41,7 @@ class Test_1:
     @pytest.mark.parametrize(
     "usr,password",[("pengjie","Qq123456"),("pengjie32","Qq123456"),("pengjie","qq123")],)
     @pytest.mark.flaky(reruns=1,reruns_delay=10) 
-    # @pytest.mark.skip(reason="调式")
+    @pytest.mark.skip(reason="调式")
     def test_001(self,usr,password):
         #登录
         final_data=Doexcel().get_test_data(data_list, "test_001")
@@ -57,7 +59,7 @@ class Test_1:
     @allure.story("品项管理查看/编辑（当A=1时为查看，当A等于2时为编辑）")
     @pytest.mark.test_002
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    # @pytest.mark.skip(reason="调式")
+    @pytest.mark.skip(reason="调式")
     def test_002(self,a):
         #品项管理查看/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_002")
@@ -87,7 +89,7 @@ class Test_1:
     @allure.story("门店管理-编辑门店")
     @pytest.mark.test_003
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    # @pytest.mark.skip(reason="调式")
+    @pytest.mark.skip(reason="调式")
     def test_003(self):
         #门店管理/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_003")
@@ -104,7 +106,7 @@ class Test_1:
     @allure.story("供应商查看/编辑（当A=1时为查看，当A等于2时为编辑）")
     @pytest.mark.test_004
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    # @pytest.mark.skip(reason="调式")
+    @pytest.mark.skip(reason="调式")
     def test_004(self,a):
         #供应商管理查看/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_004")
@@ -129,7 +131,7 @@ class Test_1:
     @allure.story("员工餐新增/查看/编辑/删除，当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为删除。")
     @pytest.mark.test_005
     @pytest.mark.flaky(reruns=0,reruns_delay=10)
-    # @pytest.mark.skip(reason="调式")
+    @pytest.mark.skip(reason="调式")
     def test_005(self,a):
         #员工餐新增/查看/编辑/删除
         final_data=Doexcel().get_test_data(data_list, "test_005")
@@ -171,7 +173,7 @@ class Test_1:
     @allure.story("盘点模板新增/查看/编辑/删除当A=1时为新增 当A等于2时为查看 当A等于3时为编辑 当A等于4时为停用 当A=5时为启用 当A等于6时为删除。")
     @pytest.mark.test_006
     @pytest.mark.flaky(reruns=0,reruns_delay=10)
-    # @pytest.mark.skip(reason="调式")
+    @pytest.mark.skip(reason="调式")
     def test_006(self,a):
         #盘点新增/查看/编辑/删除/停用/启用
         final_data=Doexcel().get_test_data(data_list, "test_006")
@@ -204,33 +206,122 @@ class Test_1:
             self.driver.implicitly_wait(10)
             self.basepage.wait_text((By.XPATH,"/html/body/div[3]/p"),"新增盘点模板成功",model="新增盘点餐模板断言")
         elif a=="2":
-            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span"),model="查看第一个模板")
+            time.sleep(1)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[1]/span"),model="查看第二个模板")
             self.driver.implicitly_wait(10)
             self.basepage.wait_eleVisible((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span"),model="查看盘点模板断言")
         elif a=="3":
-            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span"),model="点击编辑盘点模板")
+            time.sleep(1)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[2]/span"),model="点击编辑盘点模板")
             self.driver.implicitly_wait(10)
             time.sleep(2)
             self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span"),model="点击确定")
             self.driver.implicitly_wait(10)
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"修改盘点模板成功",model="修改盘点模板断言")
         elif a == "4" :
-            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[3]/span"),model="点击停用盘点模板")
+            time.sleep(1)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span"),model="点击停用盘点模板")
             self.driver.implicitly_wait(10)
             time.sleep(1)
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"停用盘点模版成功",model="停用盘点模板断言")
         elif a == "5" :
-            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[3]/span"),model="点击启用盘点模板")
+            time.sleep(1)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span"),model="点击启用盘点模板")
             self.driver.implicitly_wait(10)
             time.sleep(1)
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"启用盘点模版成功",model="启用盘点模板断言")
         else:
+            time.sleep(1)
             self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/span/span/button/span"),model="点击删除盘点模板")
             self.driver.implicitly_wait(10)
             self.basepage.click_element((By.XPATH,"/html/body/div[2]/div[1]/div/button[2]/span"),model="二次确定删除")
             self.driver.implicitly_wait(10)
             time.sleep(1)
             self.basepage.wait_text((By.XPATH,"/html/body/div[3]/p"),"删除盘点模板成功",model="删除盘点模板断言")
+    @pytest.mark.parametrize("a",["1","2"])
+    #配送中心管理的查看和编辑，当A=1时为查看，当A等于2时为编辑
+    @allure.story("配送中心查看/编辑（当A=1时为查看，当A等于2时为编辑）")
+    @pytest.mark.test_007
+    @pytest.mark.flaky(reruns=1,reruns_delay=10)
+    @pytest.mark.skip(reason="调式")
+    def test_007(self,a):
+        self.oms.OMS_p("A8")
+        self.driver.implicitly_wait(10)
+        if a =="1":
+            time.sleep(1)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span"),model="点击查看")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_eleVisible((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span"),model="断言")
+        else:
+            time.sleep(2)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span"),model="点击编辑")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span"),model="点击确定")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"编辑配送中心成功",model="断言")
+    #,"2","3"
+    @pytest.mark.parametrize("a",["1","2","3"])
+    #成本卡管理菜品成本卡的新增/所属门店/ 编辑 当A=1时为新增，当A等于2时为所属门店，当A=3时为编辑
+    @allure.story("成本卡管理查看/编辑（当A=1时为新增，当A等于2时为所属门店，当A=3时为编辑）")
+    @pytest.mark.test_007
+    @pytest.mark.flaky(reruns=1,reruns_delay=10)
+    # @pytest.mark.skip(reason="调式")
+    def test_008(self,a):
+        self.oms.OMS_p("A9")
+        self.driver.implicitly_wait(10)
+        if a == "1":
+            time.sleep(2)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div[2]/section/main/div/div[2]/div[3]/table/tbody/tr[1]/td[8]/div/button/span"),model="点击新增成本卡")
+            self.driver.implicitly_wait(10)
+            self.basepage.input_text((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[1]/div[1]/div/div/div/input"),number,model="输入成本卡名称")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div[3]/div/div/label/span"),model="取消默认成本卡的勾选")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/div/div[3]/div/span/div/button/span"),model="选择品项")
+            self.driver.implicitly_wait(10)
+            time.sleep(3)
+            ELE=self.driver.find_elements_by_class_name("el-card__body")
+            #/html/body/div[2]/div/div[2]/section/section/main/div/div
+            #/html/body/div[2]/div/div[2]/section/section/main/div/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[1]/div/label/span/span
+            #先定位唯一class——name,再根据下标去确定唯一XPATH
+            ELE[1].find_element_by_xpath("//*[@class='el-card__body']/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[1]/div/label/span/span").click()
+            self.driver.implicitly_wait(10)
+            ELE1=self.driver.find_elements_by_class_name("el-dialog__wrapper")
+            #先定位唯一class——name,再根据下标去确定唯一XPATH
+            #点击确定
+            ELE1[1].find_element_by_xpath("//*[@class='el-dialog__wrapper']/div/div[3]/div/button[2]/span").click()
+            self.driver.implicitly_wait(10)
+            self.basepage.input_text((By.XPATH,"//*[@id='input-0-0-child-input']"),"10",model="输入净量")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span"),model="点击确定")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_text((By.XPATH,"/html/body/div[3]/p"),"新增成本卡成功",model="断言")
+        elif a == "2" :
+            time.sleep(2)
+            #//*[@id="app"]/div/div[2]/section/div/section/main/div[2]/section/main/div/div[1]/div[3]/table/tbody/tr[2]/td[5]/div/button[1]
+            #self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div[2]/section/main/div/div[1]/div[3]/table/tbody/tr[2]/td[5]/div/button"),model="点击所属门店")
+            ELE=self.driver.find_elements_by_class_name("el-table__body")
+            #先定位唯一class——name,再根据下标去确定唯一XPATH
+            ELE[0].find_element_by_xpath("//*[@class='el-table__body']/tbody/tr[2]/td[5]/div/button[1]").click()
+            self.driver.implicitly_wait(10)
+            ELE1=self.driver.find_elements_by_class_name("el-dialog__wrapper")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"/html/body/div[2]/div/div[3]/div/button[2]/span"),model="点击确定")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_text((By.XPATH,"/html/body/div[3]/p"),"设置门店关系成功",model="断言")
+        else:
+            time.sleep(2)
+            ELE=self.driver.find_elements_by_class_name("el-table__body")
+            #先定位唯一class——name,再根据下标去确定唯一XPATH
+            ELE[0].find_element_by_xpath("//*[@class='el-table__body']/tbody/tr[2]/td[5]/div/button[2]").click()
+            self.driver.implicitly_wait(10)
+            self.basepage.clean_inputText((By.XPATH,"//*[@id='input-0-0-child-input']"),model="清除净量")
+            self.driver.implicitly_wait(10)
+            self.basepage.input_text((By.XPATH,"//*[@id='input-0-0-child-input']"),"10",model="输入净量")
+            self.driver.implicitly_wait(10)
+            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span"),model="点击确定")
+            self.driver.implicitly_wait(10)
+            self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"编辑成本卡成功",model="断言")    
     def teardown(self):
         time.sleep(3)
         self.driver.quit()

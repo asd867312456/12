@@ -1,5 +1,4 @@
 from xlrd import open_workbook
-import xlwt
 class Doexcel():
 
     def excel_data_list(self, filename, sheetname):

@@ -106,7 +106,7 @@ class Test_1:
     @allure.story("供应商查看/编辑（当A=1时为查看，当A等于2时为编辑）")
     @pytest.mark.test_004
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
-    @pytest.mark.skip(reason="调式")
+    # @pytest.mark.skip(reason="调式")
     def test_004(self,a):
         #供应商管理查看/编辑 操作
         final_data=Doexcel().get_test_data(data_list, "test_004")
@@ -225,10 +225,10 @@ class Test_1:
             time.sleep(1)
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"停用盘点模版成功",model="停用盘点模板断言")
         elif a == "5" :
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span"),model="点击启用盘点模板")
             self.driver.implicitly_wait(10)
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.wait_text((By.XPATH,"/html/body/div[2]/p"),"启用盘点模版成功",model="启用盘点模板断言")
         else:
             time.sleep(1)
@@ -248,7 +248,7 @@ class Test_1:
         self.oms.OMS_p("A8")
         self.driver.implicitly_wait(10)
         if a =="1":
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span"),model="点击查看")
             self.driver.implicitly_wait(10)
             self.basepage.wait_eleVisible((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span"),model="断言")
@@ -263,7 +263,7 @@ class Test_1:
     @pytest.mark.parametrize("a",["1","2","3"])
     #成本卡管理菜品成本卡的新增/所属门店/ 编辑 当A=1时为新增，当A等于2时为所属门店，当A=3时为编辑
     @allure.story("成本卡管理查看/编辑（当A=1时为新增，当A等于2时为所属门店，当A=3时为编辑）")
-    @pytest.mark.test_007
+    @pytest.mark.test_008
     @pytest.mark.flaky(reruns=1,reruns_delay=10)
     # @pytest.mark.skip(reason="调式")
     def test_008(self,a):

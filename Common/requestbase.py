@@ -57,7 +57,7 @@ class RequestsHandler():
         self.logger.info(f'连通接口"{url}",接口data为:"{data}",接口json{json}')
         try:
             start=datetime.now()
-            res=requests.put(url=url,data=data,headers=headers,json=json,params=params,verify=False)
+            res=requests.delete(url=url,data=data,headers=headers,json=json,params=params,verify=False)
             end=datetime.now()
             self.logger.info(f'等待接口"{url}"时长:{end - start}')
         except:

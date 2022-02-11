@@ -1,4 +1,5 @@
 from xlrd import open_workbook
+import xlwt
 class Doexcel():
 
     def excel_data_list(self, filename, sheetname):
@@ -25,6 +26,10 @@ class Doexcel():
                 if item['id'] in case_id:
                     final_data.append(item)
         return final_data
+    def write_text(self,filename,sheetname,text):
+        wb = open_workbook(filename)  # 打开excel
+        sh = wb.sheet_by_name(sheetname).write(10,10,text) # 定位工作表
+        
 if __name__ == "__main__":
     data_list=Doexcel().excel_data_list('E:/12/Config/oms_request.xls',"Sheet1")
     # print(data_list)
@@ -32,3 +37,4 @@ if __name__ == "__main__":
     print(final_data)
     print(final_data[0]['url'])
     print(final_data[1]['url'])
+    data=Doexcel().write_text('E:/12/Config/oms_request.xls',"Sheet1","测试一下写入")

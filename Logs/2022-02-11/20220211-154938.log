@@ -1,0 +1,4 @@
+2022-02-11 15:49:38,232 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates",接口data为:"",接口json{'name': '99064915723', 'type': 'WEEK_INVENTORY', 'inventoryDay': 'MONDAY', 'remark': '121212', 'enable': 'true', 'itemList': [{'itemId': 1, 'remark': ''}], 'shopList': [{'shopId': 1}]}
+2022-02-11 15:49:38,360 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates"时长:0:00:00.124690
+2022-02-11 15:49:38,363 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-11 15:49:38,365 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

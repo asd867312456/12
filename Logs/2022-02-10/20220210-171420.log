@@ -1,0 +1,2 @@
+2022-02-10 17:14:20,053 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/99132860479",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIwY2VlMGQ3YTNkMjE0Zjc0OGFmY2E5ZDMzNzA5NmU1NiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.pt-BLuq1Y0fzKMjVSjC6L1eFrG2EWKpy_7I-JRF_huFM9DC7igKCS4WLsas-Q5FpXtutofDuguSb-465ZG-sXA'}",接口param为：
+2022-02-10 17:14:20,120 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/99132860479"时长:0:00:00.062831

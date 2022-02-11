@@ -1,0 +1,12 @@
+2022-02-11 11:34:44,167 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/",接口data为:"",接口json{'itemGroupInfo': {'name': '99736512980', 'remark': ''}, 'itemIdList': [1], 'relatedOrganizationList': [{'organizationType': 'SHOP', 'organizationId': '31', 'organizationName': '太二广州海珠万达分店'}]}
+2022-02-11 11:34:44,355 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/"时长:0:00:00.183505
+2022-02-11 11:34:44,358 - INFO assertbase.py [line:28]: 预计接口返回code为"201.0",实际返回code为:"201"
+2022-02-11 11:34:44,360 - INFO assertbase.py [line:31]: 预计接口返回code为"201.0",实际返回code为:"201"
+2022-02-11 11:34:44,370 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/113",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiZTBmZTAzNTIwOGI0YjliOWUxMmExYWIwYzkzNTQyNiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.IaGogFGy-WzE3p1kcu26g7zRWESYVVb-jxdkz_c1IIc-PWJDhKvtZxRnLabZl35-tqW7-yuj8gCD3v8fK4wZOg'}",接口param为：
+2022-02-11 11:34:44,370 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/113",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJiZTBmZTAzNTIwOGI0YjliOWUxMmExYWIwYzkzNTQyNiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.IaGogFGy-WzE3p1kcu26g7zRWESYVVb-jxdkz_c1IIc-PWJDhKvtZxRnLabZl35-tqW7-yuj8gCD3v8fK4wZOg'}",接口param为：
+2022-02-11 11:34:44,454 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/113"时长:0:00:00.078786
+2022-02-11 11:34:44,454 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/113"时长:0:00:00.078786
+2022-02-11 11:34:44,458 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-11 11:34:44,458 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-11 11:34:44,460 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-11 11:34:44,460 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

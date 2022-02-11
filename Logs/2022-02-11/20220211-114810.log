@@ -1,0 +1,4 @@
+2022-02-11 11:48:10,153 - INFO requestbase.py [line:57]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/116",接口data为:"",接口json
+2022-02-11 11:48:10,216 - INFO requestbase.py [line:62]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/116"时长:0:00:00.058841
+2022-02-11 11:48:10,219 - INFO assertbase.py [line:28]: 预计接口返回code为"",实际返回code为:"400"
+2022-02-11 11:48:10,221 - ERROR assertbase.py [line:33]: 预计接口返回code为"",实际返回code为:"400",失败

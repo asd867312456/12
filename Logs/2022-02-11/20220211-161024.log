@@ -1,0 +1,4 @@
+2022-02-11 16:10:24,176 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates?pageNum=1&pageSize=100",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiJmNGFmOWVlYjAyN2Y0ODNkYTA2MTA1ZTc1MDhmZDczMiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.pDOzAF4EykiHxWZOQn2fvxDDIUE5vuN37kxxgGyRWfKGoupTGArhSwGJxPDOnKGtgyc2VJo_8kn5TPT97x0llw'}",接口param为：
+2022-02-11 16:10:24,287 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates?pageNum=1&pageSize=100"时长:0:00:00.108708
+2022-02-11 16:10:24,289 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-11 16:10:24,292 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

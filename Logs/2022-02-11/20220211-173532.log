@@ -1,0 +1,4 @@
+2022-02-11 17:35:32,467 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/update",接口data为:"",接口json{"recipeId":42,"name":"123","preferred":"true","seasoningCost":"","list":[{"rank":1,"grossUsage":10,"itemId":1,"netFeedRate":100,"netUsage":10}]}
+2022-02-11 17:35:33,571 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/update"时长:0:00:01.101904
+2022-02-11 17:35:33,575 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"400"
+2022-02-11 17:35:33,578 - ERROR assertbase.py [line:33]: 预计接口返回code为"200.0",实际返回code为:"400",失败

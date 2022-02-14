@@ -19,6 +19,7 @@ data_list=Doexcel().excel_data_list('Config/oms_request.xls',"Sheet1")
 asser=Assertions()
 header_list=headerdata().header()
 final_data1=Doexcel().get_test_data(data_list, "all")
+@allure.feature("OMS品牌视角接口测试")
 class Test_request():
     def setup(self):
         print("1")

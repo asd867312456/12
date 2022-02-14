@@ -247,12 +247,22 @@ class Test_1:
         self.driver.implicitly_wait(10)
         if a =="1":
             time.sleep(2)
-            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span"),model="点击查看")
+            #//*[@id="app"]/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span
+            ELE=self.driver.find_elements_by_class_name("el-table__fixed")
+            #//*[@id="app"]/div/div[2]/section/div/section/main/div/div/div[1]/div[3]/table/tbody/tr[1]/td[2]/div/button[1]/span
+            #/html/body/div[2]/div/div[2]/section/section/main/div/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[1]/div/label/span/span
+            #先定位唯一class——name,再根据下标去确定唯一XPATH
+            ELE[0].find_element_by_xpath("//*[@class='el-table__fixed']/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span").click()
+           #self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[1]/span"),model="点击查看")
             self.driver.implicitly_wait(10)
             self.basepage.wait_eleVisible((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span"),model="断言")
         else:
             time.sleep(2)
-            self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span"),model="点击编辑")
+            ELE=self.driver.find_elements_by_class_name("el-table__fixed")
+            #先定位唯一class——name,再根据下标去确定唯一XPATH
+            time.sleep(1)
+            ELE[0].find_element_by_xpath("//*[@class='el-table__fixed']/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span").click()
+            #self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/main/div/div/div[1]/div[4]/div[2]/table/tbody/tr[1]/td[2]/div/button[2]/span"),model="点击编辑")
             self.driver.implicitly_wait(10)
             self.basepage.click_element((By.XPATH,"//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span"),model="点击确定")
             self.driver.implicitly_wait(10)

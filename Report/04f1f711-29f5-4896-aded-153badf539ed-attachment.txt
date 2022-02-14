@@ -1,4 +1,0 @@
-[32mINFO    [0m root:requestbase.py:21 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIyNGViZDM5NWNjODc0ZmI4YmE2NGZhM2Y5YmNmNWFiZCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.fHSH47EH06Oop4p8OL_NIhsfcGMGUAvbs2hgV5_0UPGaHR6qgk6zDjrH6UvV7mQR3gpW3RJ31kQxNwK-_6KRjg'}",接口param为：
-[32mINFO    [0m root:requestbase.py:26 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.060837
-[32mINFO    [0m root:assertbase.py:28 预计接口返回code为"200.0",实际返回code为:"200"
-[32mINFO    [0m root:assertbase.py:31 预计接口返回code为"200.0",实际返回code为:"200"

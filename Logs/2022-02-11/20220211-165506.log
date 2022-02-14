@@ -1,4 +1,0 @@
-2022-02-11 16:55:06,196 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/update",接口data为:"",接口json{'id': 1, 'address': '121212121212121', 'enable': 'true', 'province': '北京市', 'city': '市辖区', 'district': '东城区'}
-2022-02-11 16:55:06,250 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/update"时长:0:00:00.048464
-2022-02-11 16:55:06,252 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"405"
-2022-02-11 16:55:06,255 - ERROR assertbase.py [line:33]: 预计接口返回code为"200.0",实际返回code为:"405",失败

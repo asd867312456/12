@@ -1,2 +1,0 @@
-2022-01-27 16:34:02,726 - INFO assertbase.py [line:28]: 预计接口返回code为"200",实际返回code为:"200"
-2022-01-27 16:34:02,726 - INFO assertbase.py [line:31]: 预计接口返回code为"200",实际返回code为:"200"

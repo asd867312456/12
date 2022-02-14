@@ -1,0 +1,212 @@
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,425 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiI2MzhhMDQ5N2VmYjU0OGE2YThmYmI3YTVlNjc2MzI4MCIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.NAOcs_UalfUe8zrs8n64dHaqJBJTInf4EHo2sqkaAxheJSBuJfseskiOej63CFNc5_5RTbzKpuNcH7Azg_VjAw'}",接口param为：
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,511 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.083466
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,514 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-14 17:29:22,516 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

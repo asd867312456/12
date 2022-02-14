@@ -1,2 +1,0 @@
-2022-01-30 09:22:01,041 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.jmj1995.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
-2022-01-30 09:22:01,128 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.jmj1995.com/shops/1"时长:0:00:00.086767

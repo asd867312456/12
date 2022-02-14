@@ -1,0 +1,4 @@
+[32mINFO    [0m root:requestbase.py:33 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 529, 'name': '99309278645', 'preferred': 'false', 'seasoningCost': 12, 'specification': '小粉', 'list': [{'rank': 1, 'grossUsage': 10, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 10}]}
+[32mINFO    [0m root:requestbase.py:38 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.097761
+[32mINFO    [0m root:assertbase.py:28 预计接口返回code为"200.0",实际返回code为:"200"
+[32mINFO    [0m root:assertbase.py:31 预计接口返回code为"200.0",实际返回code为:"200"

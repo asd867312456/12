@@ -1,0 +1,4 @@
+[32mINFO    [0m root:requestbase.py:33 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/94/enable/true",接口data为:"",接口json
+[32mINFO    [0m root:requestbase.py:38 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/94/enable/true"时长:0:00:00.080810
+[32mINFO    [0m root:assertbase.py:28 预计接口返回code为"200.0",实际返回code为:"200"
+[32mINFO    [0m root:assertbase.py:31 预计接口返回code为"200.0",实际返回code为:"200"

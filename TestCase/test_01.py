@@ -1,5 +1,3 @@
-from ast import If
-from re import X
 import sys
 sys.path.append("..")
 import os

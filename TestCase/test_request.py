@@ -1,6 +1,4 @@
 # -*- coding: utf-8 -*-
-import re
-import xlwt
 import requests
 from inspect import modulesbyfile
 import sys 

@@ -1,0 +1,104 @@
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:45,921 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 210, 'name': '99047869523', 'preferred': 'false', 'seasoningCost': 6, 'specification': '份', 'list': [{'rank': 1, 'grossUsage': 6, 'itemId': 2, 'netFeedRate': 100, 'netUsage': 6}, {'rank': 2, 'grossUsage': 6, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 6}]}
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,032 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.107869
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:37:46,035 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

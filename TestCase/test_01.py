@@ -229,12 +229,12 @@ class Test_1:
             time.sleep(1)
             self.basepage.wait_text(eval(final_data[0]["element21"]),eval(final_data[0]["element22"]),model="启用盘点模板断言")
         else:
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.click_element(eval(final_data[0]["element23"]),model="点击删除盘点模板")
             self.driver.implicitly_wait(10)
             self.basepage.click_element(eval(final_data[0]["element24"]),model="二次确定删除")
             self.driver.implicitly_wait(10)
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.wait_text(eval(final_data[0]["element25"]),eval(final_data[0]["element26"]),model="删除盘点模板断言")
     @pytest.mark.parametrize("a",["1","2"])
     #配送中心管理的查看和编辑，当A=1时为查看，当A等于2时为编辑

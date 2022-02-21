@@ -29,6 +29,10 @@ class OmsIndex(BasePage):
     A8=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
     #成本卡管理
     A9=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+    #配送中心供应链管理
+    B1=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div/span")
+    #点击基础设置
+    B2=(By.XPATH,"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[1]/li/div/span")
     #展开模块
     b3=(By.CLASS_NAME,"hamburger-container")
     #登录
@@ -41,7 +45,7 @@ class OmsIndex(BasePage):
         self.click_element(self.deng,model="点击登录")
         self.driver.implicitly_wait(10)
         sleep(2)
-    #点击品项管理
+    #集团视角
     def OMS_p(self,a):
         self.OMS_deng("oms1213","Qq123456")
         #点击品项管理
@@ -82,4 +86,13 @@ class OmsIndex(BasePage):
         elif a == "A9":
            #成本卡管理
             self.click_element(self.A9,model="成本卡管理")
+            self.driver.implicitly_wait(10) 
+ #配送中心视角
+    def OMS_s(self,a):
+        self.OMS_deng("oms45","Qq123456")   
+        sleep(1)
+        self.click_element(self.B1,model="点击配送中心供应链管理")
+        if a == "B1" :
+            #基础设置
+            self.click_element(self.B2,model="点击基础设置")
             self.driver.implicitly_wait(10) 

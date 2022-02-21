@@ -1,0 +1,618 @@
+2022-02-21 17:21:34,964 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:34,964 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:34,981 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:34,981 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:35,061 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:21:35,061 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:21:35,073 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:21:35,073 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:21:35,137 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:21:35,137 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:21:35,148 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:21:35,148 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:21:38,216 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:21:38,216 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:21:38,244 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:21:38,244 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:21:38,287 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:21:38,287 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:21:38,299 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:21:38,299 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:21:40,523 - INFO basePage.py [line:88]: 查找"点击新增盘点模板模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-21 17:21:40,523 - INFO basePage.py [line:88]: 查找"点击新增盘点模板模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-21 17:21:40,573 - INFO basePage.py [line:140]: 点击"点击新增盘点模板模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-21 17:21:40,573 - INFO basePage.py [line:140]: 点击"点击新增盘点模板模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/header/div[2]/button")
+2022-02-21 17:21:40,832 - INFO basePage.py [line:88]: 查找"输入模板名称"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:40,832 - INFO basePage.py [line:88]: 查找"输入模板名称"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:40,849 - INFO basePage.py [line:113]: 在"输入模板名称"输入"99806173952",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:40,849 - INFO basePage.py [line:113]: 在"输入模板名称"输入"99806173952",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:21:42,969 - INFO basePage.py [line:88]: 查找"选择品项"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-21 17:21:42,969 - INFO basePage.py [line:88]: 查找"选择品项"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-21 17:21:42,982 - INFO basePage.py [line:140]: 点击"选择品项",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-21 17:21:42,982 - INFO basePage.py [line:140]: 点击"选择品项",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/section[2]/main/button/span")
+2022-02-21 17:21:46,407 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:21:46,407 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:21:46,424 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:21:46,424 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:21:46,746 - INFO basePage.py [line:74]: 等待"新增盘点餐模板断言"元素,定位方式:('xpath', '/html/body/div[4]/p')
+2022-02-21 17:21:46,746 - INFO basePage.py [line:74]: 等待"新增盘点餐模板断言"元素,定位方式:('xpath', '/html/body/div[4]/p')
+2022-02-21 17:21:47,013 - INFO basePage.py [line:79]: 等待"新增盘点餐模板断言"时长:0:00:00.264140
+2022-02-21 17:21:47,013 - INFO basePage.py [line:79]: 等待"新增盘点餐模板断言"时长:0:00:00.264140
+2022-02-21 17:22:05,595 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:05,595 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:05,609 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:05,609 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:05,674 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:05,674 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:05,686 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:05,686 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:05,752 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:05,752 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:05,764 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:05,764 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:08,821 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:08,821 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:08,853 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:08,853 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:08,898 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:08,898 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:08,911 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:08,911 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:12,104 - INFO basePage.py [line:88]: 查找"查看第二个模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[1]/span")
+2022-02-21 17:22:12,104 - INFO basePage.py [line:88]: 查找"查看第二个模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[1]/span")
+2022-02-21 17:22:12,137 - INFO basePage.py [line:140]: 点击"查看第二个模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[1]/span")
+2022-02-21 17:22:12,137 - INFO basePage.py [line:140]: 点击"查看第二个模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[1]/span")
+2022-02-21 17:22:12,243 - INFO basePage.py [line:33]: 等待"查看盘点模板断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span")
+2022-02-21 17:22:12,243 - INFO basePage.py [line:33]: 等待"查看盘点模板断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span")
+2022-02-21 17:22:12,282 - INFO basePage.py [line:38]: 等待"查看盘点模板断言"时长:0:00:00.037901
+2022-02-21 17:22:12,282 - INFO basePage.py [line:38]: 等待"查看盘点模板断言"时长:0:00:00.037901
+2022-02-21 17:22:31,007 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:31,007 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:31,025 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:31,025 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:31,100 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:31,100 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:31,113 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:31,113 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:31,180 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:31,180 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:31,193 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:31,193 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:34,259 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:34,259 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:34,276 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:34,276 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:22:34,325 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:34,325 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:34,341 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:34,341 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:22:37,553 - INFO basePage.py [line:88]: 查找"点击编辑盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[2]/span")
+2022-02-21 17:22:37,553 - INFO basePage.py [line:88]: 查找"点击编辑盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[2]/span")
+2022-02-21 17:22:37,571 - INFO basePage.py [line:140]: 点击"点击编辑盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[2]/span")
+2022-02-21 17:22:37,571 - INFO basePage.py [line:140]: 点击"点击编辑盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[2]/span")
+2022-02-21 17:22:39,699 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:22:39,699 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:22:39,719 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:22:39,719 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:22:39,769 - INFO basePage.py [line:74]: 等待"修改盘点模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:22:39,769 - INFO basePage.py [line:74]: 等待"修改盘点模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:22:40,113 - INFO basePage.py [line:79]: 等待"修改盘点模板断言"时长:0:00:00.343042
+2022-02-21 17:22:40,113 - INFO basePage.py [line:79]: 等待"修改盘点模板断言"时长:0:00:00.343042
+2022-02-21 17:22:58,773 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:58,773 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:58,788 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:58,788 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:22:58,863 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:58,863 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:58,876 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:58,876 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:22:58,941 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:58,941 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:58,953 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:22:58,953 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:02,007 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:02,007 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:02,021 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:02,021 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:02,064 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:02,064 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:02,087 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:02,087 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:05,297 - INFO basePage.py [line:88]: 查找"点击停用盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:05,297 - INFO basePage.py [line:88]: 查找"点击停用盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:05,330 - INFO basePage.py [line:140]: 点击"点击停用盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:05,330 - INFO basePage.py [line:140]: 点击"点击停用盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:06,438 - INFO basePage.py [line:74]: 等待"停用盘点模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:23:06,438 - INFO basePage.py [line:74]: 等待"停用盘点模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:23:06,467 - INFO basePage.py [line:79]: 等待"停用盘点模板断言"时长:0:00:00.023395
+2022-02-21 17:23:06,467 - INFO basePage.py [line:79]: 等待"停用盘点模板断言"时长:0:00:00.023395
+2022-02-21 17:23:25,165 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:25,165 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:25,181 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:25,181 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:25,258 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:25,258 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:25,271 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:25,271 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:25,336 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:25,336 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:25,349 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:25,349 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:28,406 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:28,406 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:28,424 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:28,424 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:28,472 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:28,472 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:28,487 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:28,487 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:32,696 - INFO basePage.py [line:88]: 查找"点击启用盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:32,696 - INFO basePage.py [line:88]: 查找"点击启用盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:32,715 - INFO basePage.py [line:140]: 点击"点击启用盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:32,715 - INFO basePage.py [line:140]: 点击"点击启用盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/button[3]/span")
+2022-02-21 17:23:33,817 - INFO basePage.py [line:74]: 等待"启用盘点模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:23:33,817 - INFO basePage.py [line:74]: 等待"启用盘点模板断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:23:33,860 - INFO basePage.py [line:79]: 等待"启用盘点模板断言"时长:0:00:00.030692
+2022-02-21 17:23:33,860 - INFO basePage.py [line:79]: 等待"启用盘点模板断言"时长:0:00:00.030692
+2022-02-21 17:23:52,405 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:52,405 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:52,427 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:52,427 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:23:52,503 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:52,503 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:52,517 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:52,517 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:23:52,582 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:52,582 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:52,594 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:52,594 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:23:55,649 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:55,649 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:55,675 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:55,675 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:23:55,723 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:55,723 - INFO basePage.py [line:88]: 查找"盘点模板管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:55,737 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:55,737 - INFO basePage.py [line:140]: 点击"盘点模板管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[9]/a/li")
+2022-02-21 17:23:59,008 - INFO basePage.py [line:88]: 查找"点击删除盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/span/span/button/span")
+2022-02-21 17:23:59,008 - INFO basePage.py [line:88]: 查找"点击删除盘点模板"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/span/span/button/span")
+2022-02-21 17:23:59,031 - INFO basePage.py [line:140]: 点击"点击删除盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/span/span/button/span")
+2022-02-21 17:23:59,031 - INFO basePage.py [line:140]: 点击"点击删除盘点模板",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/section/main/div/div[1]/div[4]/div[2]/table/tbody/tr[2]/td[2]/div/span/span/button/span")
+2022-02-21 17:23:59,077 - INFO basePage.py [line:88]: 查找"二次确定删除"元素，元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-02-21 17:23:59,077 - INFO basePage.py [line:88]: 查找"二次确定删除"元素，元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-02-21 17:23:59,089 - INFO basePage.py [line:140]: 点击"二次确定删除",元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-02-21 17:23:59,089 - INFO basePage.py [line:140]: 点击"二次确定删除",元素定位:('xpath', '/html/body/div[2]/div[1]/div/button[2]/span')
+2022-02-21 17:24:00,147 - INFO basePage.py [line:74]: 等待"删除盘点模板断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-02-21 17:24:00,147 - INFO basePage.py [line:74]: 等待"删除盘点模板断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-02-21 17:24:14,828 - ERROR basePage.py [line:81]: 等待"删除盘点模板断言"元素失败,定位方式:('xpath', '/html/body/div[3]/p')
+Traceback (most recent call last):
+  File "e:\12\Common\basePage.py", line 77, in wait_text
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.text_to_be_present_in_element(loc,text))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-02-21 17:24:14,828 - ERROR basePage.py [line:81]: 等待"删除盘点模板断言"元素失败,定位方式:('xpath', '/html/body/div[3]/p')
+Traceback (most recent call last):
+  File "e:\12\Common\basePage.py", line 77, in wait_text
+    WebDriverWait(self.driver, timeout, poll_frequency).until(EC.text_to_be_present_in_element(loc,text))
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\support\wait.py", line 80, in until
+    raise TimeoutException(message, screen, stacktrace)
+selenium.common.exceptions.TimeoutException: Message: 
+
+2022-02-21 17:24:14,991 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-02-21\等待元素[删除盘点模板断言]出现异常_20220221_172414.png
+2022-02-21 17:24:14,991 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-02-21\等待元素[删除盘点模板断言]出现异常_20220221_172414.png
+2022-02-21 17:24:33,697 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:33,697 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:33,718 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:33,718 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:33,793 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:33,793 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:33,806 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:33,806 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:33,870 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:33,870 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:33,884 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:33,884 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:36,954 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:24:36,954 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:24:36,984 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:24:36,984 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:24:37,028 - INFO basePage.py [line:88]: 查找"配送中心管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:24:37,028 - INFO basePage.py [line:88]: 查找"配送中心管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:24:37,040 - INFO basePage.py [line:140]: 点击"配送中心管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:24:37,040 - INFO basePage.py [line:140]: 点击"配送中心管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:24:40,647 - INFO basePage.py [line:33]: 等待"断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span")
+2022-02-21 17:24:40,647 - INFO basePage.py [line:33]: 等待"断言"元素,定位方式:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button/span")
+2022-02-21 17:24:40,674 - INFO basePage.py [line:38]: 等待"断言"时长:0:00:00.024160
+2022-02-21 17:24:40,674 - INFO basePage.py [line:38]: 等待"断言"时长:0:00:00.024160
+2022-02-21 17:24:59,242 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:59,242 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:59,256 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:59,256 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:24:59,330 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:59,330 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:59,345 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:59,345 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:24:59,409 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:59,409 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:59,422 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:24:59,422 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:25:02,489 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:25:02,489 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:25:02,518 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:25:02,518 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:25:02,565 - INFO basePage.py [line:88]: 查找"配送中心管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:25:02,565 - INFO basePage.py [line:88]: 查找"配送中心管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:25:02,580 - INFO basePage.py [line:140]: 点击"配送中心管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:25:02,580 - INFO basePage.py [line:140]: 点击"配送中心管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[13]/a/li")
+2022-02-21 17:25:06,288 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:25:06,288 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:25:06,305 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:25:06,305 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:25:06,357 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:25:06,357 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:25:06,668 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.308123
+2022-02-21 17:25:06,668 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.308123
+2022-02-21 17:25:25,203 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:25:25,203 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:25:25,218 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:25:25,218 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:25:25,294 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:25:25,294 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:25:25,307 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:25:25,307 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:25:25,371 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:25:25,371 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:25:25,383 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:25:25,383 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:25:28,452 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:25:28,452 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:25:38,485 - ERROR basePage.py [line:92]: 查找"供应链管理"元素失败,定位方式:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+Traceback (most recent call last):
+  File "e:\12\Common\basePage.py", line 90, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div"}
+  (Session info: headless chrome=98.0.4758.102)
+
+2022-02-21 17:25:38,485 - ERROR basePage.py [line:92]: 查找"供应链管理"元素失败,定位方式:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+Traceback (most recent call last):
+  File "e:\12\Common\basePage.py", line 90, in find_element
+    return self.driver.find_element(*loc)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 976, in find_element
+    return self.execute(Command.FIND_ELEMENT, {
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\webdriver.py", line 321, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\bonjour\AppData\Local\Programs\Python\Python39\lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 242, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.NoSuchElementException: Message: no such element: Unable to locate element: {"method":"xpath","selector":"//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div"}
+  (Session info: headless chrome=98.0.4758.102)
+
+2022-02-21 17:25:38,657 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-02-21\查找元素[供应链管理]异常_20220221_172538.png
+2022-02-21 17:25:38,657 - INFO basePage.py [line:247]: 截屏成功,图片路径为E:\12\Screenshots\2022-02-21\查找元素[供应链管理]异常_20220221_172538.png
+2022-02-21 17:26:07,323 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:07,323 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:07,337 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:07,337 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:07,415 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:07,415 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:07,429 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:07,429 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:07,494 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:07,494 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:07,506 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:07,506 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:10,563 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:10,563 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:10,581 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:10,581 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:10,630 - INFO basePage.py [line:88]: 查找"成本卡管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:10,630 - INFO basePage.py [line:88]: 查找"成本卡管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:10,646 - INFO basePage.py [line:140]: 点击"成本卡管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:10,646 - INFO basePage.py [line:140]: 点击"成本卡管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:12,999 - INFO basePage.py [line:88]: 查找"点击新增成本卡"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/div[2]/section/main/div/div[2]/div[3]/table/tbody/tr[1]/td[8]/div/button/span")
+2022-02-21 17:26:12,999 - INFO basePage.py [line:88]: 查找"点击新增成本卡"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/div[2]/section/main/div/div[2]/div[3]/table/tbody/tr[1]/td[8]/div/button/span")
+2022-02-21 17:26:13,014 - INFO basePage.py [line:140]: 点击"点击新增成本卡",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/div[2]/section/main/div/div[2]/div[3]/table/tbody/tr[1]/td[8]/div/button/span")
+2022-02-21 17:26:13,014 - INFO basePage.py [line:140]: 点击"点击新增成本卡",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/main/div[2]/section/main/div/div[2]/div[3]/table/tbody/tr[1]/td[8]/div/button/span")
+2022-02-21 17:26:13,243 - INFO basePage.py [line:88]: 查找"输入成本卡名称"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[1]/div[1]/div/div/div/input")
+2022-02-21 17:26:13,243 - INFO basePage.py [line:88]: 查找"输入成本卡名称"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[1]/div[1]/div/div/div/input")
+2022-02-21 17:26:13,259 - INFO basePage.py [line:113]: 在"输入成本卡名称"输入"99806173952",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[1]/div[1]/div/div/div/input")
+2022-02-21 17:26:13,259 - INFO basePage.py [line:113]: 在"输入成本卡名称"输入"99806173952",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[1]/div[1]/div/div/div/input")
+2022-02-21 17:26:13,365 - INFO basePage.py [line:88]: 查找"取消默认成本卡的勾选"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div[3]/div/div/label/span")
+2022-02-21 17:26:13,365 - INFO basePage.py [line:88]: 查找"取消默认成本卡的勾选"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div[3]/div/div/label/span")
+2022-02-21 17:26:13,378 - INFO basePage.py [line:140]: 点击"取消默认成本卡的勾选",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div[3]/div/div/label/span")
+2022-02-21 17:26:13,378 - INFO basePage.py [line:140]: 点击"取消默认成本卡的勾选",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/form/div[2]/div[3]/div/div/label/span")
+2022-02-21 17:26:13,416 - INFO basePage.py [line:88]: 查找"选择品项"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/div/div[3]/div/span/div/button/span")
+2022-02-21 17:26:13,416 - INFO basePage.py [line:88]: 查找"选择品项"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/div/div[3]/div/span/div/button/span")
+2022-02-21 17:26:13,429 - INFO basePage.py [line:140]: 点击"选择品项",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/div/div[3]/div/span/div/button/span")
+2022-02-21 17:26:13,429 - INFO basePage.py [line:140]: 点击"选择品项",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[2]/div/div[3]/div/span/div/button/span")
+2022-02-21 17:26:16,704 - INFO basePage.py [line:88]: 查找"输入净量"元素，元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:26:16,704 - INFO basePage.py [line:88]: 查找"输入净量"元素，元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:26:16,900 - INFO basePage.py [line:113]: 在"输入净量"输入"10",元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:26:16,900 - INFO basePage.py [line:113]: 在"输入净量"输入"10",元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:26:16,948 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:26:16,948 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:26:16,964 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:26:16,964 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:26:17,289 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-02-21 17:26:17,289 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-02-21 17:26:17,639 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.347630
+2022-02-21 17:26:17,639 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.347630
+2022-02-21 17:26:36,151 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:36,151 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:36,167 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:36,167 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:26:36,251 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:36,251 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:36,265 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:36,265 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:26:36,337 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:36,337 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:36,350 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:36,350 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:26:39,422 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:39,422 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:39,436 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:39,436 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:26:39,481 - INFO basePage.py [line:88]: 查找"成本卡管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:39,481 - INFO basePage.py [line:88]: 查找"成本卡管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:39,497 - INFO basePage.py [line:140]: 点击"成本卡管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:39,497 - INFO basePage.py [line:140]: 点击"成本卡管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:26:42,145 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', '/html/body/div[2]/div/div[3]/div/button[2]/span')
+2022-02-21 17:26:42,145 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', '/html/body/div[2]/div/div[3]/div/button[2]/span')
+2022-02-21 17:26:42,267 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', '/html/body/div[2]/div/div[3]/div/button[2]/span')
+2022-02-21 17:26:42,267 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', '/html/body/div[2]/div/div[3]/div/button[2]/span')
+2022-02-21 17:26:42,308 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-02-21 17:26:42,308 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[3]/p')
+2022-02-21 17:26:42,667 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.355052
+2022-02-21 17:26:42,667 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.355052
+2022-02-21 17:27:01,339 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:27:01,339 - INFO basePage.py [line:88]: 查找"输入账号"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:27:01,356 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:27:01,356 - INFO basePage.py [line:113]: 在"输入账号"输入"oms1213",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[2]/div/div/input")
+2022-02-21 17:27:01,434 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:27:01,434 - INFO basePage.py [line:88]: 查找"输入密码"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:27:01,449 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:27:01,449 - INFO basePage.py [line:113]: 在"输入密码"输入"Qq123456",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/div[3]/div/div/input")
+2022-02-21 17:27:01,516 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:27:01,516 - INFO basePage.py [line:88]: 查找"点击登录"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:27:01,531 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:27:01,531 - INFO basePage.py [line:140]: 点击"点击登录",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/form/button")
+2022-02-21 17:27:04,601 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:27:04,601 - INFO basePage.py [line:88]: 查找"供应链管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:27:04,644 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:27:04,644 - INFO basePage.py [line:140]: 点击"供应链管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/div")
+2022-02-21 17:27:04,696 - INFO basePage.py [line:88]: 查找"成本卡管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:27:04,696 - INFO basePage.py [line:88]: 查找"成本卡管理"元素，元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:27:04,711 - INFO basePage.py [line:140]: 点击"成本卡管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:27:04,711 - INFO basePage.py [line:140]: 点击"成本卡管理",元素定位:('xpath', "//*[@id='app']/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[14]/a/li")
+2022-02-21 17:27:07,376 - INFO basePage.py [line:88]: 查找"清除净量"元素，元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,376 - INFO basePage.py [line:88]: 查找"清除净量"元素，元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,452 - INFO basePage.py [line:126]: 清除"清除净量",元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,452 - INFO basePage.py [line:126]: 清除"清除净量",元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,487 - INFO basePage.py [line:88]: 查找"输入净量"元素，元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,487 - INFO basePage.py [line:88]: 查找"输入净量"元素，元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,500 - INFO basePage.py [line:113]: 在"输入净量"输入"10",元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,500 - INFO basePage.py [line:113]: 在"输入净量"输入"10",元素定位:('xpath', "//*[@id='input-0-0-child-input']")
+2022-02-21 17:27:07,573 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:27:07,573 - INFO basePage.py [line:88]: 查找"点击确定"元素，元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:27:07,590 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:27:07,590 - INFO basePage.py [line:140]: 点击"点击确定",元素定位:('xpath', "//*[@id='app']/div/div[2]/section/div/section/div/div/div[3]/div/button[2]/span")
+2022-02-21 17:27:07,643 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:27:07,643 - INFO basePage.py [line:74]: 等待"断言"元素,定位方式:('xpath', '/html/body/div[2]/p')
+2022-02-21 17:27:07,995 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.349251
+2022-02-21 17:27:07,995 - INFO basePage.py [line:79]: 等待"断言"时长:0:00:00.349251
+2022-02-21 17:27:13,096 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-02-21 17:27:13,096 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：{'pageNum': '1', 'pageSize': '20'}
+2022-02-21 17:27:13,444 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/items"时长:0:00:00.346437
+2022-02-21 17:27:13,444 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/items"时长:0:00:00.346437
+2022-02-21 17:27:13,448 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,448 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,450 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,450 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,460 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:13,460 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:13,538 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1"时长:0:00:00.075011
+2022-02-21 17:27:13,538 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/groups/current/items/1"时长:0:00:00.075011
+2022-02-21 17:27:13,542 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,542 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,544 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,544 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,554 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-02-21 17:27:13,554 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/items/1",接口data为:"",接口json{'enable': 'true', 'tags': ['12', '23', '34', '45', '56', '67', '78', '89', '01', '99953816724', '99897524630', '99135297046', '99254607193', '99310649275', '99376528194', '99352478916', '99503247816', '99187059632', '99953042716', '99638017452', '99237065184'], 'enableValidDays': 'true'}
+2022-02-21 17:27:13,647 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/items/1"时长:0:00:00.089362
+2022-02-21 17:27:13,647 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/items/1"时长:0:00:00.089362
+2022-02-21 17:27:13,661 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,661 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,668 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,668 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,680 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-02-21 17:27:13,680 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/shops/1",接口data为:"",接口json{'deliveryCenterId': 1, 'ownerCompanyId': 1}
+2022-02-21 17:27:13,809 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/shops/1"时长:0:00:00.125516
+2022-02-21 17:27:13,809 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/shops/1"时长:0:00:00.125516
+2022-02-21 17:27:13,825 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,825 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,832 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,832 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,845 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:13,845 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:13,917 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.067428
+2022-02-21 17:27:13,917 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.067428
+2022-02-21 17:27:13,920 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,920 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,922 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,922 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:13,931 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-02-21 17:27:13,931 - INFO requestbase.py [line:69]: 连通接口"https://supplychain-server-stg.datousoft.com/suppliers/1",接口data为:"",接口json{'enable': 'false'}
+2022-02-21 17:27:14,029 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.096464
+2022-02-21 17:27:14,029 - INFO requestbase.py [line:74]: 等待接口"https://supplychain-server-stg.datousoft.com/suppliers/1"时长:0:00:00.096464
+2022-02-21 17:27:14,037 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,037 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,044 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,044 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,057 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/",接口data为:"",接口json{'itemGroupInfo': {'name': '99516840329', 'remark': ''}, 'itemIdList': [1], 'relatedOrganizationList': [{'organizationType': 'SHOP', 'organizationId': '31', 'organizationName': '太二广州海珠万达分店'}]}
+2022-02-21 17:27:14,057 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/",接口data为:"",接口json{'itemGroupInfo': {'name': '99516840329', 'remark': ''}, 'itemIdList': [1], 'relatedOrganizationList': [{'organizationType': 'SHOP', 'organizationId': '31', 'organizationName': '太二广州海珠万达分店'}]}
+2022-02-21 17:27:14,215 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/"时长:0:00:00.154621
+2022-02-21 17:27:14,215 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/"时长:0:00:00.154621
+2022-02-21 17:27:14,231 - INFO assertbase.py [line:28]: 预计接口返回code为"201.0",实际返回code为:"201"
+2022-02-21 17:27:14,231 - INFO assertbase.py [line:28]: 预计接口返回code为"201.0",实际返回code为:"201"
+2022-02-21 17:27:14,238 - INFO assertbase.py [line:31]: 预计接口返回code为"201.0",实际返回code为:"201"
+2022-02-21 17:27:14,238 - INFO assertbase.py [line:31]: 预计接口返回code为"201.0",实际返回code为:"201"
+2022-02-21 17:27:14,251 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:14,251 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:14,321 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8"时长:0:00:00.067460
+2022-02-21 17:27:14,321 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8"时长:0:00:00.067460
+2022-02-21 17:27:14,324 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,324 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,327 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,327 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,329 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:14,329 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:14,439 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations"时长:0:00:00.107148
+2022-02-21 17:27:14,439 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations"时长:0:00:00.107148
+2022-02-21 17:27:14,442 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,442 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,444 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,444 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,448 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:14,448 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:14,531 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items"时长:0:00:00.079650
+2022-02-21 17:27:14,531 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items"时长:0:00:00.079650
+2022-02-21 17:27:14,537 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,537 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,543 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,543 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,557 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8",接口data为:"",接口json{'name': '99516840329', 'remark': '655555'}
+2022-02-21 17:27:14,557 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8",接口data为:"",接口json{'name': '99516840329', 'remark': '655555'}
+2022-02-21 17:27:14,805 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8"时长:0:00:00.244309
+2022-02-21 17:27:14,805 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8"时长:0:00:00.244309
+2022-02-21 17:27:14,808 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,808 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,811 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,811 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,814 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations",接口data为:"",接口json[{'organizationType': 'SHOP', 'organizationId': 31, 'organizationName': '太二广州海珠万达分店'}]
+2022-02-21 17:27:14,814 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations",接口data为:"",接口json[{'organizationType': 'SHOP', 'organizationId': 31, 'organizationName': '太二广州海珠万达分店'}]
+2022-02-21 17:27:14,913 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations"时长:0:00:00.095848
+2022-02-21 17:27:14,913 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/relatedOrganizations"时长:0:00:00.095848
+2022-02-21 17:27:14,917 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,917 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,919 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,919 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:14,922 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items",接口data为:"",接口json[1]
+2022-02-21 17:27:14,922 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items",接口data为:"",接口json[1]
+2022-02-21 17:27:15,022 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items"时长:0:00:00.097524
+2022-02-21 17:27:15,022 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8/items"时长:0:00:00.097524
+2022-02-21 17:27:15,029 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,029 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,036 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,036 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,050 - INFO requestbase.py [line:57]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8",接口data为:"",接口json
+2022-02-21 17:27:15,050 - INFO requestbase.py [line:57]: 连通接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8",接口data为:"",接口json
+2022-02-21 17:27:15,136 - INFO requestbase.py [line:62]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8"时长:0:00:00.083258
+2022-02-21 17:27:15,136 - INFO requestbase.py [line:62]: 等待接口"https://supplychain-server-stg.datousoft.com/staffMealItemGroups/8"时长:0:00:00.083258
+2022-02-21 17:27:15,139 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,139 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,142 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,142 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,151 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/",接口data为:"",接口json{'name': '99516840329', 'type': 'WEEK_INVENTORY', 'inventoryDay': 'MONDAY', 'remark': '121212', 'enable': 'true', 'itemList': [{'itemId': 1, 'remark': ''}], 'shopList': [{'shopId': 1}]}
+2022-02-21 17:27:15,151 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/",接口data为:"",接口json{'name': '99516840329', 'type': 'WEEK_INVENTORY', 'inventoryDay': 'MONDAY', 'remark': '121212', 'enable': 'true', 'itemList': [{'itemId': 1, 'remark': ''}], 'shopList': [{'shopId': 1}]}
+2022-02-21 17:27:15,256 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/"时长:0:00:00.101355
+2022-02-21 17:27:15,256 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/"时长:0:00:00.101355
+2022-02-21 17:27:15,265 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,265 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,273 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,273 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,286 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates?pageNum=1&pageSize=100",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:15,286 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates?pageNum=1&pageSize=100",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:15,441 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates?pageNum=1&pageSize=100"时长:0:00:00.150878
+2022-02-21 17:27:15,441 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates?pageNum=1&pageSize=100"时长:0:00:00.150878
+2022-02-21 17:27:15,458 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,458 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,465 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,465 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,478 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:15,478 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:15,635 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19"时长:0:00:00.152354
+2022-02-21 17:27:15,635 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19"时长:0:00:00.152354
+2022-02-21 17:27:15,638 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,638 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,640 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,640 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,651 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/",接口data为:"",接口json{'id': '19', 'name': '99516840329', 'type': 'WEEK_INVENTORY', 'inventoryDay': 'MONDAY', 'remark': '99516840329', 'enable': 'true', 'defaultTemplate': 'false', 'itemList': [{'itemId': 1, 'remark': ''}], 'shopList': [{'shopId': 1}]}
+2022-02-21 17:27:15,651 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/",接口data为:"",接口json{'id': '19', 'name': '99516840329', 'type': 'WEEK_INVENTORY', 'inventoryDay': 'MONDAY', 'remark': '99516840329', 'enable': 'true', 'defaultTemplate': 'false', 'itemList': [{'itemId': 1, 'remark': ''}], 'shopList': [{'shopId': 1}]}
+2022-02-21 17:27:15,771 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/"时长:0:00:00.117620
+2022-02-21 17:27:15,771 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/"时长:0:00:00.117620
+2022-02-21 17:27:15,788 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,788 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,795 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,795 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,808 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/false",接口data为:"",接口json
+2022-02-21 17:27:15,808 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/false",接口data为:"",接口json
+2022-02-21 17:27:15,901 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/false"时长:0:00:00.088755
+2022-02-21 17:27:15,901 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/false"时长:0:00:00.088755
+2022-02-21 17:27:15,906 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,906 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,910 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,910 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:15,922 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/true",接口data为:"",接口json
+2022-02-21 17:27:15,922 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/true",接口data为:"",接口json
+2022-02-21 17:27:16,027 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/true"时长:0:00:00.101445
+2022-02-21 17:27:16,027 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19/enable/true"时长:0:00:00.101445
+2022-02-21 17:27:16,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,033 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,036 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,036 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,047 - INFO requestbase.py [line:57]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19",接口data为:"",接口json
+2022-02-21 17:27:16,047 - INFO requestbase.py [line:57]: 连通接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19",接口data为:"",接口json
+2022-02-21 17:27:16,161 - INFO requestbase.py [line:62]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19"时长:0:00:00.110752
+2022-02-21 17:27:16,161 - INFO requestbase.py [line:62]: 等待接口"https://supplychain-server-stg.datousoft.com/warehouseInventoryTemplates/19"时长:0:00:00.110752
+2022-02-21 17:27:16,167 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,167 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,172 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,172 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,186 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/pageGet?pageNum=1&pageSize=100",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:16,186 - INFO requestbase.py [line:21]: 连通接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/pageGet?pageNum=1&pageSize=100",接口header为:"{'authorization': 'Bearer eyJhbGciOiJIUzUxMiJ9.eyJqdGkiOiIzYWRkODQzOTFmYTg0YjI2ODJhMTNmYWU1Y2VlYzVmZiIsImF1dGgiOiIiLCJpZCI6NTk5LCJzdWIiOiIxMiJ9.0ZV7mGsEvJJrsl0jRH1v31W5qvPJpkRmsH6JvmtW_xk5auLlocqKORQmanr_vyhgOOVoQJgIfUt2gyjmiWij1A'}",接口param为：
+2022-02-21 17:27:16,275 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/pageGet?pageNum=1&pageSize=100"时长:0:00:00.084590
+2022-02-21 17:27:16,275 - INFO requestbase.py [line:26]: 等待接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/pageGet?pageNum=1&pageSize=100"时长:0:00:00.084590
+2022-02-21 17:27:16,283 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,283 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,290 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,290 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,308 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/update",接口data为:"",接口json{'id': 1, 'address': '121212121212121', 'enable': 'true', 'province': '北京市', 'city': '市辖区', 'district': '东城区'}
+2022-02-21 17:27:16,308 - INFO requestbase.py [line:45]: 连通接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/update",接口data为:"",接口json{'id': 1, 'address': '121212121212121', 'enable': 'true', 'province': '北京市', 'city': '市辖区', 'district': '东城区'}
+2022-02-21 17:27:16,460 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/update"时长:0:00:00.147282
+2022-02-21 17:27:16,460 - INFO requestbase.py [line:50]: 等待接口"https://supplychain-server-stg.datousoft.com/deliveryCenters/update"时长:0:00:00.147282
+2022-02-21 17:27:16,479 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,479 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,487 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,487 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,498 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 529, 'name': '99516840329', 'preferred': 'false', 'seasoningCost': 12, 'specification': '小粉', 'list': [{'rank': 1, 'grossUsage': 10, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 10}]}
+2022-02-21 17:27:16,498 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/add",接口data为:"",接口json{'dishId': 529, 'name': '99516840329', 'preferred': 'false', 'seasoningCost': 12, 'specification': '小粉', 'list': [{'rank': 1, 'grossUsage': 10, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 10}]}
+2022-02-21 17:27:16,590 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.087792
+2022-02-21 17:27:16,590 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/add"时长:0:00:00.087792
+2022-02-21 17:27:16,595 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"500"
+2022-02-21 17:27:16,595 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"500"
+2022-02-21 17:27:16,599 - ERROR assertbase.py [line:33]: 预计接口返回code为"200.0",实际返回code为:"500",失败
+2022-02-21 17:27:16,599 - ERROR assertbase.py [line:33]: 预计接口返回code为"200.0",实际返回code为:"500",失败
+2022-02-21 17:27:16,620 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/shopRecipe/update",接口data为:"",接口json{'dishId': 529, 'recipeId': 42, 'shopIds': [11052]}
+2022-02-21 17:27:16,620 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/shopRecipe/update",接口data为:"",接口json{'dishId': 529, 'recipeId': 42, 'shopIds': [11052]}
+2022-02-21 17:27:16,708 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/shopRecipe/update"时长:0:00:00.085759
+2022-02-21 17:27:16,708 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/shopRecipe/update"时长:0:00:00.085759
+2022-02-21 17:27:16,716 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"500"
+2022-02-21 17:27:16,716 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"500"
+2022-02-21 17:27:16,725 - ERROR assertbase.py [line:33]: 预计接口返回code为"200.0",实际返回code为:"500",失败
+2022-02-21 17:27:16,725 - ERROR assertbase.py [line:33]: 预计接口返回code为"200.0",实际返回code为:"500",失败
+2022-02-21 17:27:16,749 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/update",接口data为:"",接口json{'recipeId': 42, 'name': '123', 'preferred': 'true', 'seasoningCost': '', 'list': [{'rank': 1, 'grossUsage': 10, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 10}]}
+2022-02-21 17:27:16,749 - INFO requestbase.py [line:33]: 连通接口"https://supplychain-server-stg.datousoft.com/recipe/update",接口data为:"",接口json{'recipeId': 42, 'name': '123', 'preferred': 'true', 'seasoningCost': '', 'list': [{'rank': 1, 'grossUsage': 10, 'itemId': 1, 'netFeedRate': 100, 'netUsage': 10}]}
+2022-02-21 17:27:16,844 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/update"时长:0:00:00.090724
+2022-02-21 17:27:16,844 - INFO requestbase.py [line:38]: 等待接口"https://supplychain-server-stg.datousoft.com/recipe/update"时长:0:00:00.090724
+2022-02-21 17:27:16,853 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,853 - INFO assertbase.py [line:28]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,861 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"
+2022-02-21 17:27:16,861 - INFO assertbase.py [line:31]: 预计接口返回code为"200.0",实际返回code为:"200"

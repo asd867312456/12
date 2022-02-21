@@ -225,7 +225,7 @@ class Test_request():
     def test_007(self,a):
         final_data=Doexcel().get_test_data(data_list,"test_024,test_025,test_026")
         if a == "1":
-            json={"dishId":529,"name":number,"preferred":"false","seasoningCost":12,"specification":"小粉","list":[{"rank":1,"grossUsage":10,"itemId":1,"netFeedRate":100,"netUsage":10}]}
+            json={"dishId":210,"name":number,"preferred":"false","seasoningCost":6,"specification":"份","list":[{"rank":1,"grossUsage":6,"itemId":2,"netFeedRate":100,"netUsage":6},{"rank":2,"grossUsage":6,"itemId":1,"netFeedRate":100,"netUsage":6}]}
             requestdata=RequestsHandler().post_Req(url=final_data[0]['url'],params="",headers=header_list,json=json,data="")
             asser.assert_code(final_data[0]['status_code'],requestdata.status_code)
         elif a =="2":

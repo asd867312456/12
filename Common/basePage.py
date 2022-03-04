@@ -104,7 +104,6 @@ class BasePage(object):
             # 截图
             self.save_webImgs(f"查找元素集[{model}]异常")
             raise
-
     # 输入操作
     def input_text(self, loc, text, model=None):
         # 查找元素
@@ -227,7 +226,13 @@ class BasePage(object):
             # 截图
             self.save_webImgs("切换失败_没有要切换窗口的信息")
             raise
-
+    def find_elements_click(self,element1,element2,number1,model=None):
+        time.sleep(1)
+        self.logger.info(f'获取"{model}"元素属性,元素定位:{element1}')
+        element=self.driver.find_elements_by_class_name(element1)
+        self.driver.implicitly_wait(10)
+        self.logger.info(f'获取"{model}"元素属性,元素定位:{element2}')
+        element[number1].find_element_by_xpath(element2).click()
     # 截图
     def save_webImgs(self, model=None):
         # filepath = 指图片保存目录/model(页面功能名称)_当前时间到秒.png

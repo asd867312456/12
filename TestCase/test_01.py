@@ -135,6 +135,7 @@ class Test_1:
         final_data=Doexcel().get_test_data(data_list, "test_005")
         self.oms.OMS_p("A6")
         self.driver.implicitly_wait(10)
+        time.sleep(2)
         #//*[@id="app"]/div/div[1]/div[2]/div[1]/div/ul/div[2]/li/ul/div[6]/li/ul/div[1]/a/li/span
         self.basepage.click_element(eval(final_data[0]["element1"]),model="点击员工餐模板")
         self.driver.implicitly_wait(10)
@@ -148,24 +149,32 @@ class Test_1:
             self.driver.implicitly_wait(10)
             self.basepage.wait_text(eval(final_data[0]["element5"]),eval(final_data[0]["element6"]),model="新增员工餐模板断言")
         elif a=="2":
-            self.basepage.click_element(eval(final_data[0]["element7"]),model="查看第一个模板")
+            time.sleep(1)
+            element=self.driver.find_elements_by_class_name(eval(final_data[0]["element17"]))
+            self.driver.implicitly_wait(10)
+            element[0].find_element_by_xpath(eval(final_data[0]["element18"])).click()
+            # self.basepage.click_element(eval(final_data[0]["element7"]),model="查看第一个模板")
             self.driver.implicitly_wait(10)
             self.basepage.wait_eleVisible(eval(final_data[0]["element8"]),model="查看员工餐模板断言")
         elif a=="3":
-            self.basepage.click_element(eval(final_data[0]["element9"]),model="点击编辑员工餐模板")
+            time.sleep(1)
+            element=self.driver.find_elements_by_class_name(eval(final_data[0]["element17"]))
+            self.driver.implicitly_wait(10)
+            element[0].find_element_by_xpath(eval(final_data[0]["element19"])).click()
+            # self.basepage.click_element(eval(final_data[0]["element9"]),model="点击编辑员工餐模板")
             self.driver.implicitly_wait(10)
             time.sleep(2)
             self.basepage.click_element(eval(final_data[0]["element10"]),model="点击确定")
             self.driver.implicitly_wait(10)
             self.basepage.wait_text(eval(final_data[0]["element11"]),eval(final_data[0]["element12"]),model="修改员工餐模板断言")
         else:
+            time.sleep(1)
             self.basepage.click_element(eval(final_data[0]["element13"]),model="点击删除员工餐模板")
             self.driver.implicitly_wait(10)
             # //*[@id="el-popover-6488"]
             self.basepage.click_element(eval(final_data[0]["element14"]),model="二次确定删除")
             self.driver.implicitly_wait(10)
             self.basepage.wait_text(eval(final_data[0]["element15"]),eval(final_data[0]["element16"]),model="删除断言")
-    #,"2","3","4"
     @pytest.mark.parametrize("a",["1","2","3","4","5","6"])
     #当A=1时为新增，当A等于2时为查看，当A等于3时为编辑，当A等于4时为停用，当A=5时为启用，当A等于6时为删除，。
     @allure.story("盘点模板新增/查看/编辑/删除当A=1时为新增 当A等于2时为查看 当A等于3时为编辑 当A等于4时为停用 当A=5时为启用 当A等于6时为删除。")
@@ -204,12 +213,12 @@ class Test_1:
             self.driver.implicitly_wait(10)
             self.basepage.wait_text(eval(final_data[0]["element9"]),eval(final_data[0]["element10"]),model="新增盘点餐模板断言")
         elif a=="2":
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.click_element(eval(final_data[0]["element11"]),model="查看第二个模板")
             self.driver.implicitly_wait(10)
             self.basepage.wait_eleVisible(eval(final_data[0]["element12"]),model="查看盘点模板断言")
         elif a=="3":
-            time.sleep(1)
+            time.sleep(2)
             self.basepage.click_element(eval(final_data[0]["element13"]),model="点击编辑盘点模板")
             self.driver.implicitly_wait(10)
             time.sleep(2)
